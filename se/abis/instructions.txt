@@ -1,0 +1,3 @@
+install requirements.txt
+download manually the ollama
+ollama pull llama3 

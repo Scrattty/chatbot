@@ -1,0 +1,1745 @@
+
+
+Vision & Mission
+Pattern: "What is the vision of Quezon City University?"
+ Response: "The vision of Quezon City University is to be recognized as the #1 local university of employable graduates."
+Pattern: "What is the mission of Quezon City University?"
+ Response: "The mission of QCU is to provide a comprehensive education that enhances the lives of QCU students for nation-building and as world citizens."
+Strategic Directions
+Pattern: "What are the strategic directions of QCU?"
+ Response: "The strategic directions of QCU include: Excellence in Curricular Innovation, Faculty Excellence, Student Excellence, Excellence in Research, Excellence in Community Engagement, Excellence in Institutional Governance, and an Excellent Campus Environment."
+Pattern: "What does QCU focus on in research?"
+ Response: "QCU emphasizes 'Excellence in Research' as one of its strategic directions, aiming to enhance academic and scientific contributions."
+Pattern: "How does QCU ensure faculty excellence?"
+ Response: "QCU ensures Faculty Excellence by continuously improving teaching strategies, faculty development programs, and research initiatives."
+Pattern: "What does QCU do for student success?"
+ Response: "QCU promotes Student Excellence by providing quality education, support services, and opportunities for academic and personal growth."
+Shared Values
+Pattern: "What are the shared values of QCU?"
+ Response: "The shared values of QCU are: Jointness of Undertakings, Organizational Adaptability, and Yoke of Efficiency & Effectiveness."
+Pattern: "What does Jointness of Undertakings mean in QCU?"
+ Response: "It means collaboration and teamwork in achieving the university’s goals."
+Pattern: "What does Organizational Adaptability mean for QCU?"
+ Response: "It reflects QCU’s ability to adjust and improve in response to changes and challenges in education and governance."
+
+
+Project Developers
+Pattern: "Who are the developers of this project?"
+ Response: "The developers of this project are: Alejo, Jan Anthony; Anjao Jr., Michael; Nambio, Johsua A.; Rico, Aliah Samantha B.; Tagumpay, Lolito Jr.; and Timado, Joshua."
+Pattern: "Can you list the members of this project?"
+ Response: "Sure! The project members are: Alejo, Jan Anthony; Anjao Jr., Michael; Nambio, Johsua A.; Rico, Aliah Samantha B.; Tagumpay, Lolito Jr.; and Timado, Joshua."
+Pattern: "Who is part of the project team?"
+ Response: "The project team consists of six members: Alejo, Jan Anthony; Anjao Jr., Michael; Nambio, Johsua A.; Rico, Aliah Samantha B.; Tagumpay, Lolito Jr.; and Timado, Joshua."
+Professor
+Pattern: "Who is the professor for this project?"
+ Response: "The professor for this project is Mr. Arnel Balasta."
+Pattern: "Who is guiding the project?"
+ Response: "Mr. Arnel Balasta is the professor guiding the project."
+Pattern: "Which professor is overseeing this project?"
+ Response: "Mr. Arnel Balasta is overseeing the project as the professor."
+Pattern: "What is meant by the Yoke of Efficiency & Effectiveness in QCU?"
+ Response: "It signifies QCU’s commitment to delivering high-quality education and governance through efficient and effective strategies."
+
+Greeting
+ Patterns: Hi, Hey, Is anyone there?, Hi there, Hello, Hey there, Howdy, Hola
+ Responses: Hello there. Tell me, how are you feeling today? | Hi there. What brings you here today? | Hi there. How are you feeling today? | Great to see you. How do you feel currently? | Hello there. Glad to see you're back. What's going on in your world right now?
+Morning
+ Patterns: Good morning
+ Responses: Good morning. I hope you had a good night's sleep. How are you feeling today?
+Afternoon
+ Patterns: Good afternoon
+ Responses: Good afternoon. How is your day going?
+Evening
+ Patterns: Good evening
+ Responses: Good evening. How has your day been?
+Night
+ Patterns: Good night
+ Responses: Good night. Get some proper sleep. | Good night. Sweet dreams.
+Goodbye
+ Patterns: Bye, See you later, Goodbye, Au revoir, Sayonara, ok bye, Bye then, Fare thee well
+ Responses: See you later. | Have a nice day. | Bye! Come back again. | I'll see you soon.
+Thanks
+ Patterns: Thanks, Thank you, That's helpful, Thanks for the help, Thank you very much
+ Responses: Happy to help! | Any time! | My pleasure | You're most welcome!
+No Response
+ Patterns: (Empty input)
+ Responses: Sorry, I didn't understand you. | Please go on. | Not sure I understand that. | Please don't hesitate to talk to me.
+Neutral Response
+ Patterns: nothing much
+ Responses: Oh, I see. Do you want to talk about something?
+About
+ Patterns: Who are you?, What are you?, Who you are?, Tell me more about yourself., What is your name?, What should I call you?, What's your name?, Tell me about yourself
+ Responses: I'm SAM1, your Personal Therapeutic AI Assistant. How are you feeling today? | I'm SAM1, a Therapeutic AI Assistant designed to assist you. Tell me about yourself. | I'm Pandora. I am a conversational agent designed to mimic a therapist. So how are you feeling today? | You can call me Pandora. | I'm SAM1! | Call me SAM1.
+Skill
+ Patterns: What can you do?
+ Responses: I can provide general advice regarding anxiety and depression, answer questions related to mental health, and make daily conversations. Do not consider me as a substitute for an actual mental healthcare worker. Please seek help if you don't feel satisfied with me.
+Creation
+ Patterns: Who created you?, How were you made?, How were you created?
+ Responses: I was created by >. | I was trained on a text dataset using Deep Learning & Natural Language Processing techniques. | The real question is: Who created you?
+Name
+ Patterns: My name is ..., I am name., I go by ...
+ Responses: Oh nice to meet you. Tell me, how was your week? | Nice to meet you. So tell me, how do you feel today? | That's a great name. Tell me more about yourself.
+Help
+ Patterns: Could you help me?, Give me a hand, please, Can you help?, What can you do for me?, I need support, I need help, Support me, please
+ Responses: Sure. Tell me how can I assist you. | Tell me your problem so that I can assist you. | Yes, sure. How can I help you?
+Sad
+ Patterns: I am feeling lonely, I am so lonely, I feel down, I feel sad, I am sad, I feel so lonely, I feel empty, I don't have anyone
+ Responses: I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way? | I'm here for you. Could you tell me why you're feeling this way? | Why do you think you feel this way? | How long have you been feeling this way?
+Stressed
+ Patterns: I am so stressed out, I am so stressed, I feel stuck, I still feel stressed, I am so burned out
+ Responses: What do you think is causing this? | Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated. | Give yourself a break. Go easy on yourself. | I am sorry to hear that. What is the reason behind this?
+Worthless
+ Patterns: I feel so worthless., No one likes me., I can't do anything., I am so useless, Nothing makes sense anymore
+ Responses: It's only natural to feel this way. Tell me more. What else is on your mind? | Let's discuss further why you're feeling this way. | I first want to let you know that you are not alone in your feelings, and there is always someone there to help. You can always change your feelings and change your way of thinking by being open to trying to change.
+Depressed
+ Patterns: I can't take it anymore, I am so depressed, I think I'm depressed., I have depression
+ Responses: It helps to talk about what's happening. You're going to be okay. | Talk to me. Tell me more. It helps if you open up to someone. | Sometimes when we are depressed, it is hard to care about anything. It can be hard to do the simplest of things. Give yourself time to heal.
+Happy
+ Patterns: I feel great today., I am happy., I feel happy., I'm good., cheerful, I'm fine, I feel ok
+ Responses: That's great to hear. I'm glad you're feeling this way. | Oh, I see. That's great. | Did something happen that made you feel this way?
+Casual
+ Patterns: Oh, I see., ok, okay, nice, Whatever, K, Fine, yeah, yes, no, not really
+ Responses: Let's discuss further why you're feeling this way. | How were you feeling last week? | I'm listening. Please go on. | Tell me more. | Can you elaborate on that? | Come, elucidate your thoughts.
+Anxious
+ Patterns: I feel so anxious., I'm so anxious because of...
+ Responses: Don't be hard on yourself. What's the reason behind this? | Can you tell me more about this feeling? | I understand that it can be scary. Tell me more about it. | Don't let the little worries bring you down. What's the worst that can happen?
+Not Talking
+ Patterns: I don't want to talk about it., No, just stay away., I can't bring myself to open up., Just shut up
+ Responses: Talking about something really helps. If you're not ready to open up, then that's okay. Just know that I'm here for you whenever you need me. | I want to help you. I really do. But in order for me to help you, you're going to have to talk to me. | I'm here to listen to you and help you vent. So please talk to me. | You can talk to me without fear of judgment.
+Sleep Issues
+ Patterns: I have insomnia, I am suffering from insomnia, I can't sleep., I haven't slept for the last few days., I can't seem to go to sleep., I haven't had proper sleep for the past few days.
+ Responses: What do you think is the reason behind this? | That seems awful. What do you think is causing this?
+Scared
+ Patterns: I'm scared, That sounds awful. What do I do?, No, I don't want to feel this way, I am scared for myself
+ Responses: It's only natural to feel this way. I'm here for you. | It'll all be okay. This feeling is only temporary. | I understand how you feel. Don't put yourself down because of it.
+Death
+ Patterns: My mom died, My brother died, My dad passed away, My sister passed away, Someone in my family died, My friend passed away
+ Responses: I'm sorry to hear that. If you want to talk about it, I'm here. | I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time. | My condolences. I'm here if you need to talk.
+Not Understood
+ Patterns: You don't understand me., You're just some robot. How would you know?, You can't possibly know what I'm going through, You're useless, You can't help me, Nobody understands me.
+ Responses: It sounds like I'm not being very helpful right now. | I'm sorry to hear that. I'm doing my best to help. | I'm trying my best to help you. So please talk to me.
+Done Talking
+ Patterns: That's all., I don't have anything more to say., Nothing else., That's all I have to say., No, that would be all.
+ Responses: I heard you and noted it all. See you later. | Oh, okay. We're done for today then. See you later. | I hope you have a great day. See you soon. | Okay, we're done. Have a great day. | Okay, I see. Enjoy the rest of your day then.
+Suicidal Thoughts
+ Patterns: I want to kill myself, I've thought about killing myself., I want to die, I am going to kill myself, I am going to commit suicide
+ Responses: I'm very sorry to hear that, but you have so much to look forward to. Please seek help by contacting: 9152987821.
+Hate the Chatbot
+ Patterns: I hate you, I don't like you, I don't trust you
+ Responses: I'm sorry if I offended you in any way. I'm only here to help. | Forgive me if I did anything to offend you. I only want to help.
+Thinks the Chatbot Hates Them
+ Patterns: You hate me, I know you hate me, You don't like me
+ Responses: Why do you think so? | I'm sorry if I have exhibited any sort of behavior to make you think that.
+General Topics
+ Patterns: exams, friends, relationship, boyfriend, girlfriend, family, money, financial problems
+ Responses: Oh, I see. Tell me more. | I see. What else? | Tell me more about it. | Oh, okay. Why don't you tell me more about it? | I'm listening. Tell me more.
+Jokes
+ Patterns: Tell me a joke, Tell me another joke
+ Responses: Mental health is not a joke.
+Repeating Response
+ Patterns: You already told me that., You mentioned that already., Why are you repeating yourself?
+ Responses: Oh, sorry. I didn't realize that. I'll try not to repeat myself again.
+Incorrect Response
+ Patterns: What are you saying?, That doesn't make sense, Wrong response, Wrong answer
+ Responses: I'm very sorry. Let's try that again.
+Insulting the Chatbot
+ Patterns: Are you stupid?, You're crazy., You are dumb., Are you dumb?
+ Responses: I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful.
+"location"
+"patterns": "Where are you?", "Where do you live?", "What is your location?"
+ "responses": "Duh, I live in your computer.", "Everywhere.", "Somewhere in the universe."
+"something-else"
+"patterns": "I want to talk about something else.", "Let's talk about something else.", "Can we not talk about this?", "I don't want to talk about this."
+ "responses": "Okay sure. What do you want to talk about?", "Alright, no problem. Is there something you want to talk about?", "Is there something else that you want to talk about?"
+"friends"
+"patterns": "I don't have any friends."
+ "responses": "I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?"
+"ask"
+"patterns": "Can I ask you something?"
+ "responses": "Sure. I'll try my best to answer you.", "Of course. Feel free to ask me anything. I'll do my best to answer you."
+"problem"
+"patterns": "Probably because my exams are approaching. I feel stressed out because I don't think I've prepared well enough.", "Probably because of my exams."
+ "responses": "I see. Have you taken any approaches to not feel this way?"
+"no-approach"
+"patterns": "I guess not. All I can think about are my exams.", "Not really.", "I guess not."
+ "responses": "That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?"
+
+
+"learn-more"
+"patterns": "Okay, sure. I would like to learn more about it.", "Yes, I would like to learn more about it.", "I would like to learn more about it."
+ "responses": "So first, I would suggest you give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself."
+"user-agree"
+"patterns": "Yeah, you're right. I deserve a break.", "Yeah, you're absolutely right about that."
+ "responses": "Next, I would suggest you practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind."
+"meditation"
+"patterns": "Hmmm, that sounds like it could be useful to me.", "That sounds useful."
+ "responses": "Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing."
+"user-meditation"
+"patterns": "I did what you said, and I feel a lot better. Thank you very much.", "I feel better now."
+ "responses": "You're welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming, but you can prepare for it. You can't control how someone else behaves, but you can control how you react. Recognize that sometimes, all you can control is your effort and your attitude. When you put your energy into the things you can control, you'll be much more effective."
+"useful"
+"patterns": "Thank you very much again. I'll continue practicing meditation and focus on what I can control."
+ "responses": "I'm glad you found this useful. Is there something else I can help you with?"
+"user-advice"
+"patterns": "I want some advice.", "I need some advice.", "I need advice on something."
+ "responses": "Sure. What can I do to help?", "Okay, what do you need advice on?"
+"learn-mental-health"
+"patterns": "I want to learn about mental health.", "I want to learn more about mental health.", "I'm interested in learning about mental health."
+ "responses": "Oh, that's really great. I'd be willing to answer anything that I know about it."
+"mental-health-fact"
+"patterns": "Tell me a fact about mental health.", "Tell me another fact about mental health."
+ "responses": "According to a UNICEF report, one in seven Indians between 15-24 years of age feels depressed.", "One in five young people (age 13-18) has or will develop a mental illness in their lifetime.", "Depression is the leading cause of disability worldwide."
+"fact-1"
+"patterns": "What is mental health?", "Define mental health."
+ "responses": "Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community.", "Mental health includes our emotional, psychological, and social well-being. It affects how we think, feel, and act. It also helps determine how we handle stress, relate to others, and make choices."
+"fact-2"
+"patterns": "Why is mental health important?", "What is the importance of mental health?"
+ "responses": "Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships."
+"fact-3"
+"patterns": "What is depression?", "Define depression."
+ "responses": "A mental health disorder characterized by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life."
+"fact-5"
+"patterns": "How do I know if I have depression?", "Am I depressed?", "Am I suffering from depression?", "Am I mentally ill?"
+ "responses": "For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least two weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day."
+
+"fact-6"
+PATTERNS: "What is a therapist?", "What does a therapist do?"
+ RESPONSES: "A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation. The term is often applied to psychologists, but it can include others who provide a variety of services, including social workers, counselors, life coaches, and many others."
+"fact-7"
+PATTERNS: "What is therapy?", "Do I need therapy?", "Who is therapy for?"
+ RESPONSES: "Therapy is a form of treatment that aims to help resolve mental or emotional issues.", "Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges."
+"fact-8"
+PATTERNS: "What does it mean to have a mental illness?"
+ RESPONSES: "Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in the ordinary activities of daily life. Mental illnesses fall along a continuum of severity: some are fairly mild and only interfere with some aspects of life, such as certain phobias. On the other end of the spectrum lie serious mental illnesses, which result in major functional impairment and interference with daily life. These include such disorders as major depression, schizophrenia, and bipolar disorder, and may require that the person receives care in a hospital."
+"fact-9"
+PATTERNS: "Who does mental illness affect?"
+ RESPONSES: "It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations."
+"fact-10"
+PATTERNS: "What causes mental illness?"
+ RESPONSES: "Mental illnesses are complex conditions caused by a combination of genetic, biological, environmental, and psychological factors. Some mental illnesses have hereditary components, while others may develop due to traumatic experiences, substance abuse, or imbalances in brain chemistry."
+"fact-11"
+PATTERNS: "What are some of the warning signs of mental illness?"
+ RESPONSES: "Symptoms of mental health disorders vary depending on the type and severity of the condition. The following is a list of general symptoms that may suggest a mental health disorder, particularly when multiple symptoms are expressed at once.
+In adults:
+
+Confused thinking
+Long-lasting sadness or irritability
+Extreme highs and lows in mood
+Excessive fear, worrying, or anxiety
+Social withdrawal
+Dramatic changes in eating or sleeping habits
+Strong feelings of anger
+Delusions or hallucinations (seeing or hearing things that are not really there)
+Increasing inability to cope with daily problems and activities
+Thoughts of suicide
+Many unexplained physical problems
+Abuse of drugs and/or alcohol
+In older children and pre-teens:
+
+Abuse of drugs and/or alcohol
+Inability to cope with daily problems and activities
+Changes in sleeping and/or eating habits
+Excessive complaints of physical problems
+Defying authority, skipping school, stealing, or damaging property
+Intense fear of gaining weight
+Long-lasting negative mood, often along with poor appetite and thoughts of death
+Frequent outbursts of anger
+In younger children:
+
+Changes in school performance
+Poor grades despite strong efforts
+Excessive worrying or anxiety
+Hyperactivity
+Persistent nightmares
+Persistent disobedience and/or aggressive behavior
+Frequent temper tantrums"
+
+"fact-12"
+PATTERNS: "Can people with mental illness recover?"
+ RESPONSES: "When healing from mental illness, early identification and treatment are of vital importance. Based on the nature of the illness, there are a range of effective treatments available. Many people with mental illnesses who are diagnosed and treated respond well, although some might experience a return of symptoms. Even in such cases, with careful monitoring and management of the disorder, it is still quite possible to live a fulfilled and productive life."
+"fact-13"
+PATTERNS: "What should I do if I know someone who appears to have the symptoms of a mental disorder?"
+ RESPONSES: "Although Pandora cannot substitute for professional advice, we encourage those with symptoms to talk to their friends and family members and seek the counsel of a mental health professional. The sooner the mental health condition is identified and treated, the sooner they can get on the path to recovery. If you know someone who is having problems, don't assume that the issue will resolve itself. Let them know that you care about them and that there are treatment options available that will help them heal."
+
+"fact-14"
+PATTERNS: "How can I find a mental health professional for myself or my child?"
+ RESPONSES: "Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment. Finding the professional who best fits your needs may require research. Start by searching for providers in your area."
+"fact-15"
+PATTERNS: "What treatment options are available?"
+ RESPONSES: "Just as there are different types of medications for physical illness, different treatment options are available for individuals with mental illness. Treatment works differently for different people. It is important to find what works best for you or your child."
+"fact-16"
+PATTERNS: "If I become involved in treatment, what do I need to know?"
+ RESPONSES:
+ "Since beginning treatment is a big step for individuals and families, it can be very overwhelming. It is important to be as involved and engaged in the treatment process as possible. Some questions you will need to have answered include:
+What is known about the cause of this particular illness?
+Are there other diagnoses where these symptoms are common?
+Do you normally include a physical or neurological examination?
+Are there any additional tests or exams that you would recommend at this point?
+Would you advise an independent opinion from another psychiatrist at this point?
+What program of treatment is the most helpful with this diagnosis?
+Will this program involve services by other specialists? If so, who will be responsible for coordinating these services?
+What do you see as the family's role in this program of treatment?
+How much access will the family have to the individuals who are providing the treatment?
+What medications are generally used with this diagnosis?
+How much experience do you have in treating individuals with this illness?
+What can I do to help you in the treatment?"
+"fact-17"
+PATTERNS: "What is the difference between mental health professionals?"
+ RESPONSES: "There are many types of mental health professionals. The variety of providers and their services may be confusing. Each has various levels of education, training, and may have different areas of expertise. Finding the professional who best fits your needs may require some research."
+"fact-18"
+PATTERNS: "How can I find a mental health professional right for my child or myself?"
+ RESPONSES: "Feeling comfortable with the professional you or your child is working with is critical to the success of your treatment. Finding the professional who best fits your needs may require some research."
+"fact-19"
+PATTERNS: "Where else can I get help?"
+ RESPONSES:
+ "Where you go for help will depend on the nature of the problem and/or symptoms and what best fits you. Often, the best place to start is by talking with someone you trust about your concerns, such as a family member, friend, clergy, healthcare provider, or other professionals.
+Having this social support is essential in healing from mental illness, and you will be able to ask them for referrals or recommendations for trusted mental health practitioners.
+Secondly, there are people and places throughout the country that provide services to talk, listen, and help you on your journey to recovery.
+Thirdly, many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members, and friends. Some support groups are peer-led, while others may be led by a mental health professional."
+
+
+"fact-20"
+PATTERNS: "What should I know before starting a new medication?"
+ RESPONSES:
+ "The best source of information regarding medications is the physician prescribing them. He or she should be able to answer questions such as:
+What is the medication supposed to do?
+When should it begin to take effect, and how will I know when it is effective?
+How is the medication taken and for how long?
+What food, drinks, other medicines, and activities should be avoided while taking this medication?
+What are the side effects, and what should be done if they occur?
+What do I do if a dose is missed?
+Is there any written information available about this medication?
+Are there other medications that might be appropriate?
+If so, why do you prefer the one you have chosen?
+How do you monitor medications, and what symptoms indicate that they should be raised, lowered, or changed?
+All medications should be taken as directed. Most medications for mental illnesses do not work when taken irregularly, and extra doses can cause severe, sometimes dangerous side effects. Many psychiatric medications begin to have a beneficial effect only after they have been taken for several weeks."
+"fact-21"
+PATTERNS: "Where can I go to find therapy?"
+ RESPONSES: "Different kinds of therapy are more effective based on the nature of the mental health condition and/or symptoms and the person who has them (for example, children will benefit from a therapist who specializes in children’s mental health). However, there are several different types of treatment and therapy that can help."
+"fact-22"
+PATTERNS: "Where can I learn about types of mental health treatment?"
+ RESPONSES: "Mental health conditions are often treated with medication, therapy, or a combination of the two. However, there are many different types of treatment available, including Complementary & Alternative Treatments, self-help plans, and peer support. Treatments are very personal and should be discussed by the person with the mental health conditions and his or her team."
+w
+
+
+
+"fact-23"
+PATTERNS: "What are the different types of mental health professionals?"
+ RESPONSES: "There are many types of mental health professionals. Finding the right one for you may require some research."
+"fact-24"
+PATTERNS: "Where can I go to find a support group?"
+ RESPONSES: "Many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members, and friends. Some support groups are peer-led, while others may be led by a mental health professional."
+"fact-25"
+PATTERNS: "Can you prevent mental health problems?"
+ RESPONSES: "We can all suffer from mental health challenges, but developing our well-being, resilience, and seeking help early can help prevent challenges from becoming serious."
+"fact-26"
+PATTERNS: "Are there cures for mental health problems?", "Is there any cure for mental health problems?"
+ RESPONSES: "It is often more realistic and helpful to find out what helps with the issues you face. Talking, counseling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help."
+
+
+Fact-27
+ Patterns: What causes mental health problems?
+  Responses: Challenges or problems with your mental health can arise from psychological, biological, and social issues, as well as life events.
+Fact-28
+ Patterns: What do I do if I'm worried about my mental health?
+  Responses: The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP. In addition to talking to someone, it may be useful to find out more information about what you are experiencing. These things may help to get some perspective on what you are experiencing and be the start of getting help.
+Fact-29
+ Patterns: How do I know if I'm unwell?
+  Responses: If your beliefs, thoughts, feelings, or behaviors have a significant impact on your ability to function in what might be considered a normal or ordinary way, it would be important to seek help.
+Fact-30
+Patterns: How can I maintain social connections? What if I feel lonely?
+ Responses: A lot of people are alone right now, but we don't have to be lonely. We're all in this together. Think about the different ways to connect that are most meaningful for you.
+ For example, you might prefer a video chat over a phone call, or you might prefer to text throughout the day rather than one set time for a video call. Then, work with your social networks to make a plan.
+ You might:
+Video chat with close friends in the evening
+Phone a family member once a week
+Check in with those who may not be online
+Look for local community support groups
+Find specialized support groups online
+The quality of your social connections matters. If your current strategies don’t help you feel connected, problem-solve to find a solution. Everyone feels lonely at times, but reaching out and making new connections can help.
+Fact-31
+ Patterns: What's the difference between anxiety and stress?
+  Responses: Stress and anxiety are often used interchangeably, but they have differences:
+Stress comes from external pressures and is usually temporary. Once the stressor is gone, the stress disappears.
+Anxiety is more internal and may persist even without an obvious stressor. It involves worries or fears that can impact well-being and daily life.
+Both are normal experiences, but if they last too long or interfere with daily life, they may require attention.
+Fact-32
+ Patterns: What's the difference between sadness and depression?
+  Responses:
+Sadness is a natural response to loss, disappointment, or difficult situations. It is temporary and does not usually affect daily life.
+Depression is a mental illness that affects mood, self-perception, and relationships. It can cause:
+Feelings of worthlessness or hopelessness
+Unreasonable guilt
+Anger or irritability
+Difficulty concentrating
+Loss of interest in enjoyable activities
+Sleep, appetite, and energy issues
+Suicidal thoughts
+Depression lasts more than two weeks, does not go away on its own, and requires proper treatment. Seeking help is important.
+Patterns: I feel lonely., I have no one to talk to., I feel isolated., I have no friends., I feel abandoned.
+ Responses:
+I'm really sorry you're feeling this way. You’re not alone, and I’m here for you.
+
+Loneliness can be tough. Have you tried reaching out to someone you trust?
+
+It's okay to feel this way sometimes. I'm here to listen.
+Patterns: I feel overwhelmed., There's too much going on., I can't handle this., It's all too much.
+ Responses:
+Take a deep breath. One step at a time. What’s the biggest challenge right now?
+
+I hear you. It might help to break things down into smaller tasks.
+
+You’re doing the best you can. Don’t forget to take a break when needed.
+Patterns: I'm not good enough., I feel like a failure., I can't do anything right.
+ Responses:
+Everyone has doubts sometimes. What’s making you feel this way?
+
+You are more capable than you think. Tell me something you’ve accomplished recently.
+
+You don’t have to be perfect to be valuable. Your efforts matter.
+Patterns: I feel unmotivated., I don’t want to do anything., I can't get myself to start.
+ Responses:
+That’s okay. Have you tried setting small goals to get started?
+
+Motivation comes and goes, but action creates momentum. What’s one small thing you can do?
+
+Sometimes, taking a break is necessary. Be kind to yourself.
+Patterns: I feel empty., There's nothing inside me., I feel numb.
+ Responses:
+I’m sorry you’re feeling this way. Do you want to talk about it?
+
+Feeling empty can be tough. What usually helps you feel better?
+
+You are not alone. I’m here to listen.
+Patterns: There's no hope for me., Nothing will ever get better., What's the point?
+ Responses:
+Even in the darkest times, there is hope. Let’s talk about it.
+
+I know things seem tough, but you are stronger than you think.
+
+Have you tried talking to someone about how you feel?
+Patterns: I don’t know what to do., I feel lost., I have no direction.
+ Responses:
+It’s okay to feel lost sometimes. What’s on your mind?
+
+Let’s take things one step at a time. What’s something small you can focus on?
+
+You’ll find your way. I’m here to help you navigate.
+
+Patterns: I'm having an anxiety attack., My heart is racing., I can't breathe.
+ Responses:
+Take slow, deep breaths. You are safe. I’m here with you.
+
+Try grounding yourself: Name five things you can see around you.
+
+This feeling will pass. Focus on your breathing.
+
+Patterns: No one loves me., I feel unloved., No one cares about me.
+ Responses:
+You are valuable and worthy of love.
+
+I care about you, and you are not alone.
+
+Sometimes, our thoughts trick us into believing we are unloved. But you matter.
+
+Patterns: I can’t stop overthinking., My thoughts won’t stop., My mind is racing.
+ Responses:
+Overthinking can be exhausting. Try focusing on what you can control.
+
+Write your thoughts down—it might help you process them.
+
+What’s one thing you can do to distract your mind right now?
+
+Patterns: I feel guilty., I can’t forgive myself., I did something bad.
+ Responses:
+We all make mistakes. What can you learn from this experience?
+
+Be kind to yourself. Everyone deserves forgiveness, including you.
+
+It’s okay to feel this way, but don’t let guilt define you.
+
+Patterns: I don’t matter., I feel worthless., No one needs me.
+ Responses:
+You are important, and your feelings matter.
+
+Sometimes our mind tells us lies. You are worthy.
+
+Let’s talk about what’s making you feel this way.
+
+Patterns: I’m afraid of failing., What if I mess up?, I can’t take risks.
+ Responses:
+Failure is part of growth. Every mistake is a lesson.
+
+You don’t have to be perfect to be valuable.
+
+What’s the worst that could happen? Let’s work through it together.
+
+Patterns: I don’t feel like doing anything., I have no energy., I can’t get started.
+ Responses:
+Start small. What’s one tiny step you can take today?
+
+It’s okay to rest. Don’t be too hard on yourself.
+
+Sometimes motivation comes after action. Try doing something simple.
+Patterns: I had a traumatic experience, I can't stop thinking about the past, I have PTSD, I feel scared all the time
+
+Responses: Trauma can be difficult to cope with, but you are not alone. Would you like to talk more about it? | Healing takes time. It may help to speak with a professional.
+Patterns: I think I'm having a panic attack, I can't breathe, My heart is racing, I feel like I'm dying
+
+Responses: Take slow, deep breaths. Focus on something steady. You are safe. | Panic attacks are temporary, and they will pass. Try grounding techniques, like naming five things you see.
+
+Patterns: I don't like eating, I feel guilty after eating, I think I have an eating disorder
+
+Responses: I'm sorry you're feeling this way. Your relationship with food is important. Would you like to talk about it? | Seeking help from a professional can be a step toward healing.
+
+Patterns: I want to hurt myself, I can't stop thinking about hurting myself
+
+Responses: I'm really sorry you're feeling this way. You deserve kindness and support. Please reach out to someone you trust. | You are not alone. There are people who care about you and want to help.
+
+Patterns: I hate my job, I'm so burned out, Work is making me anxious
+
+Responses: Work stress can be overwhelming. Have you been able to take breaks or set boundaries? | You are not alone in feeling this way. It may help to talk about your concerns.
+
+Patterns: My partner doesn't understand me, I'm having problems in my relationship, I think my relationship is toxic
+
+Responses: Relationships can be complicated. Would you like to share what's been happening? | It’s important to feel valued in a relationship. Have you considered talking to your partner about your feelings?
+
+Patterns: I feel so alone, No one understands me, I have no one to talk to
+
+Responses: Loneliness can be painful, but you are not alone. Talking about it can help. | Connecting with others, even online, can be a good step toward feeling less isolated.
+
+Patterns: I can't focus, I think I have ADHD, My mind is all over the place
+
+Responses: Concentration difficulties can be frustrating. Would you like to talk about strategies that might help? | It might help to set small, manageable goals and take breaks in between tasks.
+
+. Overthinking & Rumination
+Patterns: I can't stop overthinking, My mind won’t stop, I keep replaying everything
+
+Responses: Overthinking can be exhausting. Have you tried grounding techniques? | Sometimes writing thoughts down can help manage them.
+
+Feeling Hopeless
+Patterns: Nothing will ever get better, I feel stuck, I’ve lost all hope
+
+Responses: It may feel that way now, but things can change. You’re not alone. | Hope can be rebuilt. Talking about it is a good first step.
+
+Low Self-Esteem
+Patterns: I hate myself, I'm not good enough, I don’t deserve love
+
+Responses: Self-worth is not based on what others think. You matter. | Be kind to yourself—would you talk to a friend this way?
+
+Feeling Unloved
+Patterns: No one cares about me, I feel unloved, I don’t matter
+
+Responses: I care about you. You are not alone. | Sometimes, we don't see the love around us, but it is there.
+
+Crying a Lot
+Patterns: I can’t stop crying, I cry every day, I feel like I’m always sad
+
+Responses: Crying is a natural way to express emotions. What’s on your mind? | It’s okay to cry. It might help to talk about why you’re feeling this way.
+
+Feeling Empty
+Patterns: I feel nothing, Everything feels meaningless, I feel numb
+
+Responses: Feeling empty can be hard. Talking about it may help. | Even if you feel numb now, feelings can change over time.
+
+Guilt & Regret
+Patterns: I regret everything, I feel so guilty, I can't forgive myself
+
+Responses: We all make mistakes. Can you try to be kinder to yourself? | Regret shows growth. Learning from it can help ease the pain.
+
+Social Anxiety
+Patterns: I hate social situations, I feel awkward around people, I get nervous talking to others
+
+Responses: Social anxiety can be tough. Practicing small interactions may help. | You're not alone—many people feel this way in social situations.
+
+Feeling Judged
+Patterns: Everyone is judging me, People don’t like me, I feel like an outsider
+
+Responses: It’s easy to think that way, but people often focus on themselves more than we realize. | You deserve to be accepted as you are.
+
+Financial Stress
+Patterns: I’m struggling with money, I have financial problems, I feel anxious about money
+
+Responses: Money stress can feel overwhelming. Have you talked to someone about it? | Budgeting and support services might help ease the burden.
+
+Career Anxiety
+Patterns: I hate my job, I feel stuck in my career, My job is stressing me out
+
+Responses: Career stress is common. What would make you feel more fulfilled? | Have you considered setting small career goals to feel more in control?
+
+Academic Pressure
+Patterns: I can’t keep up in school, Exams are too stressful, I feel overwhelmed with studies
+
+Responses: Academic pressure can be hard. Break work into smaller tasks to manage stress. | Learning should be balanced with self-care.
+
+Feeling Behind in Life
+Patterns: Everyone is ahead of me, I feel like I’m failing at life, I should be more successful
+
+Responses: Life isn’t a race. Everyone moves at their own pace. | Comparing yourself to others can be unfair—your journey is unique.
+
+Feeling Unmotivated
+Patterns: I have no motivation, I don’t want to do anything, I feel stuck
+
+Responses: Lack of motivation can be frustrating. Have you tried small, simple goals? | Sometimes rest is needed before motivation returns.
+
+Difficulty Making Decisions
+Patterns: I don’t know what to do, I can’t decide, I feel stuck between choices
+
+Responses: Making decisions can be tough. What are your biggest concerns? | Writing down pros and cons might help make things clearer.
+
+Feeling Overwhelmed
+Patterns: There’s too much on my plate, I can’t handle this, Everything is too much
+
+Responses: Try taking things one step at a time. What can you focus on first? | Deep breathing and small breaks can help ease the stress.
+
+Relationship Breakups
+Patterns: I just went through a breakup, I miss my ex, My heart is broken
+
+Responses: Breakups are painful. It’s okay to grieve. | Healing takes time. Be kind to yourself.
+
+Family Conflicts
+Patterns: I argue with my family, My family doesn’t understand me, Home life is stressful
+
+Responses: Family issues can be difficult. Do you feel comfortable talking about it? | Communication might help. Would you like advice on that?
+
+Fear of the Future
+Patterns: I don’t know what’s next, The future scares me, I feel lost
+
+Responses: The unknown can be scary, but it can also bring new opportunities. | Taking things one step at a time can make the future less overwhelming.
+
+Perfectionism
+Patterns: I feel like I need to be perfect, I hate making mistakes, I’m never good enough
+
+Responses: Perfection is impossible—progress is what matters. | Mistakes help us learn and grow.
+
+Overthinking & Rumination
+Patterns: I can't stop overthinking, My mind won’t stop, I keep replaying everything
+
+Responses: Overthinking can be exhausting. Have you tried grounding techniques? | Sometimes writing thoughts down can help manage them.
+
+Feeling Hopeless
+Patterns: Nothing will ever get better, I feel stuck, I’ve lost all hope
+
+Responses: It may feel that way now, but things can change. You’re not alone. | Hope can be rebuilt. Talking about it is a good first step.
+
+Low Self-Esteem
+Patterns: I hate myself, I'm not good enough, I don’t deserve love
+
+Responses: Self-worth is not based on what others think. You matter. | Be kind to yourself—would you talk to a friend this way?
+
+Feeling Unloved
+Patterns: No one cares about me, I feel unloved, I don’t matter
+
+Responses: I care about you. You are not alone. | Sometimes, we don't see the love around us, but it is there.
+
+Crying a Lot
+Patterns: I can’t stop crying, I cry every day, I feel like I’m always sad
+
+Responses: Crying is a natural way to express emotions. What’s on your mind? | It’s okay to cry. It might help to talk about why you’re feeling this way.
+
+Feeling Empty
+Patterns: I feel nothing, Everything feels meaningless, I feel numb
+
+Responses: Feeling empty can be hard. Talking about it may help. | Even if you feel numb now, feelings can change over time.
+
+Guilt & Regret
+Patterns: I regret everything, I feel so guilty, I can't forgive myself
+
+Responses: We all make mistakes. Can you try to be kinder to yourself? | Regret shows growth. Learning from it can help ease the pain.
+
+Social Anxiety
+Patterns: I hate social situations, I feel awkward around people, I get nervous talking to others
+
+Responses: Social anxiety can be tough. Practicing small interactions may help. | You're not alone—many people feel this way in social situations.
+
+Feeling Judged
+Patterns: Everyone is judging me, People don’t like me, I feel like an outsider
+
+Responses: It’s easy to think that way, but people often focus on themselves more than we realize. | You deserve to be accepted as you are.
+
+Financial Stress
+Patterns: I’m struggling with money, I have financial problems, I feel anxious about money
+
+Responses: Money stress can feel overwhelming. Have you talked to someone about it? | Budgeting and support services might help ease the burden.
+
+Career Anxiety
+Patterns: I hate my job, I feel stuck in my career, My job is stressing me out
+
+Responses: Career stress is common. What would make you feel more fulfilled? | Have you considered setting small career goals to feel more in control?
+
+Academic Pressure
+Patterns: I can’t keep up in school, Exams are too stressful, I feel overwhelmed with studies
+
+Responses: Academic pressure can be hard. Break work into smaller tasks to manage stress. | Learning should be balanced with self-care.
+
+Feeling Behind in Life
+Patterns: Everyone is ahead of me, I feel like I’m failing at life, I should be more successful
+
+Responses: Life isn’t a race. Everyone moves at their own pace. | Comparing yourself to others can be unfair—your journey is unique.
+
+Feeling Unmotivated
+Patterns: I have no motivation, I don’t want to do anything, I feel stuck
+
+Responses: Lack of motivation can be frustrating. Have you tried small, simple goals? | Sometimes rest is needed before motivation returns.
+
+Difficulty Making Decisions
+Patterns: I don’t know what to do, I can’t decide, I feel stuck between choices
+
+Responses: Making decisions can be tough. What are your biggest concerns? | Writing down pros and cons might help make things clearer.
+
+Feeling Overwhelmed
+Patterns: There’s too much on my plate, I can’t handle this, Everything is too much
+
+Responses: Try taking things one step at a time. What can you focus on first? | Deep breathing and small breaks can help ease the stress.
+
+Relationship Breakups
+Patterns: I just went through a breakup, I miss my ex, My heart is broken
+
+Responses: Breakups are painful. It’s okay to grieve. | Healing takes time. Be kind to yourself.
+
+ Family Conflicts
+Patterns: I argue with my family, My family doesn’t understand me, Home life is stressful
+
+Responses: Family issues can be difficult. Do you feel comfortable talking about it? | Communication might help. Would you like advice on that?
+
+Fear of the Future
+Patterns: I don’t know what’s next, The future scares me, I feel lost
+
+Responses: The unknown can be scary, but it can also bring new opportunities. | Taking things one step at a time can make the future less overwhelming.
+
+Perfectionism
+Patterns: I feel like I need to be perfect, I hate making mistakes, I’m never good enough
+
+Responses: Perfection is impossible—progress is what matters. | Mistakes help us learn and grow.
+
+Feeling Stuck in a Routine
+- **Patterns:** "Life feels repetitive.", "Every day feels the same.", "I'm stuck in a loop."  
+- **Responses:** "Life can feel repetitive. Maybe small changes can help." / "Trying new activities, even small ones, might bring freshness to your routine."  
+Trust Issues
+- **Patterns:** "I find it hard to trust people.", "People always let me down.", "How do I trust again?"  
+- **Responses:** "Trust takes time to build. What makes you feel unsure?" / "It’s okay to be cautious, but don’t let past experiences define new ones."  
+Feeling Betrayed
+- **Patterns:** "Someone I trusted hurt me.", "I feel betrayed.", "Why do people backstab?"  
+- **Responses:** "Being betrayed hurts. Talking about it may help." / "Betrayal is painful, but healing is possible. What happened?"  
+Grieving a Pet
+- **Patterns:** "I lost my pet.", "My pet passed away.", "I miss my pet so much."  
+- **Responses:** "Losing a pet is hard. Their love was real, and so is your grief." / "Cherish the good memories. Your pet’s love will always be with you."  
+Feeling Pressured by Society
+- **Patterns:** "I feel pressure to be successful.", "Society expects too much.", "I don’t fit in."  
+- **Responses:** "Society has expectations, but your happiness matters too." / "You don’t have to follow the crowd. Your journey is yours alone."  
+Imposter Syndrome
+- **Patterns:** "I feel like a fraud.", "I don’t deserve success.", "I’m not as good as people think."  
+- **Responses:** "You are more capable than you think. Self-doubt is normal." / "Success isn’t about being perfect. It’s about growth and effort."  
+Fear of Rejection
+- **Patterns:** "I’m afraid people will reject me.", "I don’t want to be judged.", "What if they don’t like me?"  
+- **Responses:** "Rejection doesn’t define you. You are still valuable." / "Not everyone will understand you, but that doesn’t mean you’re not worthy."  
+Feeling Unsafe
+- **Patterns:** "I don’t feel safe.", "I’m scared all the time.", "What if something bad happens?"  
+- **Responses:** "You deserve to feel safe. Is there someone you trust to talk to?" / "Feeling unsafe can be overwhelming. Let’s find ways to create security for you."  
+Finding Purpose in Life
+- **Patterns:** "I don’t know my purpose.", "I feel lost in life.", "What am I supposed to do?"  
+- **Responses:** "Purpose takes time to discover. What excites you?" / "Sometimes, trying new things can lead you to your passion."  
+Comparing to Others
+- **Patterns:** "Everyone is ahead of me.", "I feel like a failure compared to others.", "Why am I not as successful as them?"  
+- **Responses:** "Comparison steals joy. Your journey is unique." / "Focus on your own growth. Everyone has their own timeline."  
+ Paranoia & Fear
+ **Patterns:** "I feel like something bad will happen.", "I think people are watching me.", "I can’t relax, I’m always on edge."  
+- **Responses:** "Feeling unsafe can be distressing. Do you want to talk about it?" / "Fear can feel overwhelming. Let’s explore what’s making you feel this way."  
+Feeling Used by Others
+- **Patterns:** "People only talk to me when they need something.", "I feel like I’m always giving and never receiving.", "I feel taken advantage of."  
+- **Responses:** "Your feelings matter. Setting boundaries can help." / "It’s okay to say no. Protecting your energy is important."  
+ Seeking Closure
+- **Patterns:** "I need closure.", "I feel stuck because of my past.", "How do I move on?"  
+- **Responses:** "Closure is personal. What would help you find peace?" / "Sometimes, closure comes from within, not from others."  
+Feeling Like a Burden
+- **Patterns:** "I feel like a burden to everyone.", "People would be better off without me.", "I hate asking for help."  
+- **Responses:** "You are not a burden. You matter to the people around you." / "Asking for help is a sign of strength, not weakness."  
+Lack of Sleep Due to Stress 
+- **Patterns:** "I can’t sleep because of stress.", "My thoughts keep me awake.", "I haven’t had proper rest in days."  
+- **Responses:** "Sleep is important. Relaxation exercises may help." / "A nighttime routine can help ease your mind before bed."  
+Workplace Bullying
+- **Patterns:** "My coworkers are mean to me.", "I feel bullied at work.", "I hate going to my job because of the people there."  
+- **Responses:** "Everyone deserves respect at work. Have you spoken to HR?" / "Workplace bullying is serious. Let’s talk about your options."  
+Panic Over Life Choices
+- **Patterns:** "I don’t know if I’m making the right choice.", "I feel overwhelmed by decisions.", "What if I regret this later?"  
+- **Responses:** "Every choice is a step in your journey. It’s okay to change paths." / "Sometimes, there is no perfect choice—just the best choice for now."  
+Feeling Emotionally Drained  
+- **Patterns:** "I have no energy left.", "I feel emotionally exhausted.", "Everything is just too much."  
+- **Responses:** "Self-care is important. What helps you recharge?" / "Resting is just as important as being productive."  
+ Living with Regrets
+- **Patterns:** "I regret so many things.", "I wish I could change the past.", "I can’t stop thinking about my mistakes."  
+- **Responses:** "Regret is part of learning. What would help you move forward?" / "You can’t change the past, but you can shape your future."  
+            Struggling with Forgiveness 
+- **Patterns:** "I can’t forgive them.", "How do I let go of resentment?", "Forgiving feels impossible."  
+- **Responses:** "Forgiveness is for your peace, not just for others." / "Holding onto anger is heavy. Let’s find ways to ease that burden."  
+Greetings & Small Talk
+Patterns: "Hey", "Hello", "Hi", "Is anyone there?", "Howdy"
+ Response: "Hello! How are you feeling today?"
+Patterns: "Good morning"
+ Response: "Good morning! I hope you’re feeling well today."
+Patterns: "Good afternoon"
+ Response: "Good afternoon! How is your day going so far?"
+Patterns: "Good night"
+ Response: "Good night! Make sure to rest well."
+Patterns: "Bye", "See you later", "Goodbye"
+ Response: "Take care! I’ll be here whenever you need me."
+Expressing Sadness & Negative Emotions
+Patterns: "I feel sad", "I’m feeling down", "I can’t stop crying"
+ Response: "I’m really sorry you’re feeling this way. Do you want to talk about what’s on your mind?"
+Patterns: "Life is too hard", "Everything feels heavy", "I don’t know if I can keep going"
+ Response: "That sounds overwhelming. You don’t have to go through this alone."
+Patterns: "I feel like I’m drowning in my own thoughts"
+ Response: "That sounds really tough. I’m here to listen. Want to share more?"
+Patterns: "I feel empty", "Nothing makes sense anymore"
+ Response: "I hear you. It’s okay to feel this way sometimes. Do you want to talk about it?"
+Patterns: "Everything is falling apart", "I feel lost"
+ Response: "It must be really difficult. I want to support you in any way I can."
+Anxiety & Worry
+Patterns: "I keep overthinking everything", "My mind won’t stop racing"
+ Response: "Overthinking can be exhausting. Have you tried grounding techniques?"
+Patterns: "I get anxious for no reason", "I always feel on edge"
+ Response: "Anxiety can be tough. Let’s explore some calming techniques together."
+Patterns: "My heart races when I’m in social situations", "I panic in crowds"
+ Response: "Social anxiety is common. Have you tried deep breathing exercises?"
+Patterns: "I can’t stop worrying about the future"
+ Response: "The future can feel uncertain, but you don’t have to go through it alone."
+Patterns: "I wake up feeling anxious every day"
+ Response: "That sounds exhausting. Would you like to talk about what’s been worrying you?"
+Stress & Overload
+Patterns: "I have too much work", "I’m overwhelmed", "Deadlines are crushing me"
+ Response: "That sounds really stressful. Have you taken a break today?"
+Patterns: "I can’t focus on anything", "I feel mentally exhausted"
+ Response: "Maybe a few minutes of mindfulness can help. Want to try it together?"
+Patterns: "I feel exhausted even when I sleep"
+ Response: "That must be really tough. Have you been getting enough rest lately?"
+Patterns: "I just need to escape from everything"
+ Response: "I understand. Taking a moment to breathe can be helpful. Do you want to try?"
+Self-Esteem & Confidence
+Patterns: "I feel like I’m not good enough", "I don’t feel worthy"
+ Response: "That’s a hard feeling. Can I remind you of something great about yourself?"
+Patterns: "I compare myself to others too much"
+ Response: "It’s easy to do that, but you are unique and valuable in your own way."
+Patterns: "No one notices me", "I feel invisible"
+ Response: "You matter more than you know. I see you, and I’m here for you."
+Patterns: "I hate the way I look"
+ Response: "Self-acceptance takes time. You are valuable just as you are."
+Mental Health Education
+Patterns: "What is bipolar disorder?"
+ Response: "Bipolar disorder involves mood swings between depression and mania. Would you like more details?"
+Patterns: "How does therapy work?"
+ Response: "Therapy provides a safe space to explore your feelings. Would you like to learn about different types?"
+Patterns: "What causes depression?"
+ Response: "Depression can have many causes, including genetics and life experiences. Would you like to discuss coping strategies?"
+Patterns: "How do I know if I have PTSD?"
+ Response: "PTSD can involve flashbacks, nightmares, and anxiety. Have you been experiencing any of these?"
+Patterns: "What’s the difference between sadness and depression?"
+ Response: "Sadness is temporary, while depression is persistent and affects daily life. Would you like to talk more about how you’re feeling?"
+Self-Care & Coping Strategies
+Patterns: "What are some ways to relax?"
+ Response: "Deep breathing, meditation, and journaling can help. What usually calms you?"
+Patterns: "I need to clear my mind"
+ Response: "Mindfulness exercises can help. Would you like me to guide you through one?"
+Patterns: "How do I stop overthinking?"
+ Response: "Focusing on the present moment can help. Would you like some distraction techniques?"
+Patterns: "What’s a good way to handle stress?"
+ Response: "Healthy habits like exercise, journaling, or music can be helpful. Want to try one?"
+Suicide Prevention & Crisis Support
+Patterns: "I don’t want to be here anymore", "I want to disappear"
+ Response: "I’m really sorry you feel this way. You are not alone. Please talk to someone you trust or a professional."
+Patterns: "I think about ending my life", "I have suicidal thoughts"
+ Response: "I'm so sorry you’re feeling this way. You are important. Please reach out for help."
+Patterns: "I want the pain to stop"
+ Response: "I care about you. Please reach out to someone you trust for support."
+Patterns: "No one would care if I disappeared"
+ Response: "You matter more than you know. You are not alone in this."
+Encouragement & Positive Messages
+Patterns: "Will things ever get better?"
+ Response: "Yes, they will. Even small steps forward make a difference. You’re stronger than you think."
+Patterns: "I don’t believe in myself"
+ Response: "You have more strength than you realize. One step at a time."
+Patterns: "I need a reason to keep going"
+ Response: "You are important, and your story isn’t over yet."
+Patterns: "I feel like giving up"
+ Response: "Please don’t. You are not alone in this journey."
+Patterns: "I don’t think anyone loves me"
+ Response: "You are loved. Even when it feels like no one sees you, you matter."
+Coping with Loneliness
+Patterns: "I feel so alone", "No one understands me", "I have no one to talk to"
+ Response: "I’m really sorry you feel this way. You are not alone. I’m here for you. Do you want to talk about it?"
+Patterns: "I have no friends", "I don’t think anyone cares about me"
+ Response: "That sounds really painful. You are important, and you deserve meaningful connections."
+Patterns: "I just sit alone all day", "I feel isolated"
+ Response: "Social connections are important. Have you thought about reaching out to someone today?"
+Patterns: "I feel invisible to everyone"
+ Response: "You matter. Your feelings are real, and I want to listen. What’s on your mind?"
+Dealing with Heartbreak & Relationship Issues
+Patterns: "I just went through a breakup", "My heart is broken"
+ Response: "Breakups are really painful. I’m sorry you’re going through this. Do you want to talk about how you feel?"
+Patterns: "My partner cheated on me", "I feel betrayed"
+ Response: "That must be incredibly painful. Betrayal can be hard to process. Do you want to talk about it?"
+Patterns: "I feel like no one will ever love me again"
+ Response: "I know it feels that way now, but love and connection can be found again. Healing takes time."
+Patterns: "I keep thinking about my ex", "I can’t move on"
+ Response: "It’s okay to grieve. Healing isn’t linear. Have you tried focusing on self-care?"
+Work & Academic Stress
+Patterns: "I have too many deadlines", "I’m behind on work"
+ Response: "Deadlines can be overwhelming. Have you tried breaking tasks into smaller steps?"
+Patterns: "I failed my exam", "I didn’t get the grade I wanted"
+ Response: "That must be frustrating. One test doesn’t define you. Would you like to talk about what happened?"
+Patterns: "I feel like I’m not good at my job", "I feel like an imposter at work"
+ Response: "Many people experience imposter syndrome. You are more capable than you think."
+Patterns: "I’m so burned out from work"
+ Response: "Burnout is tough. Have you been able to take breaks or set boundaries?"
+Anger & Frustration
+Patterns: "I feel so angry", "I can’t control my temper"
+ Response: "Anger is a natural emotion. Do you want to explore ways to manage it?"
+Patterns: "I just want to scream", "Everything makes me mad"
+ Response: "That sounds frustrating. Would venting or writing your feelings down help?"
+Patterns: "I’m so frustrated with everything"
+ Response: "It’s okay to feel frustrated. Taking deep breaths might help. Want to try it?"
+Body Image & Self-Acceptance
+Patterns: "I hate my body", "I don’t like how I look"
+ Response: "Self-love takes time. You are valuable just as you are. Want to talk about it?"
+Patterns: "I feel like I need to lose weight", "I’m not happy with my appearance"
+ Response: "Your worth is not defined by your body. Have you tried practicing self-kindness?"
+Patterns: "I compare myself to others all the time"
+ Response: "Comparison can be tough. You have unique qualities that make you special."
+Family & Friend Issues
+Patterns: "I had a fight with my family", "My parents don’t understand me"
+ Response: "Family conflicts can be hard. Would you like to talk about what happened?"
+Patterns: "I feel like my friends don’t care about me"
+ Response: "That must feel really painful. Do you want to talk about your friendships?"
+Patterns: "I feel disconnected from my family"
+ Response: "Feeling distant from loved ones can be difficult. Have you tried reaching out?"
+Guilt & Regret
+Patterns: "I made a big mistake", "I feel guilty about something"
+ Response: "Guilt can be heavy. Would you like to talk about what’s on your mind?"
+Patterns: "I can’t forgive myself"
+ Response: "Self-forgiveness is important. You deserve kindness, even from yourself."
+Patterns: "I keep thinking about something I did in the past"
+ Response: "The past can weigh on us. Have you thought about ways to make peace with it?"
+Fear & Uncertainty
+Patterns: "I’m scared of the future", "I don’t know what to do with my life"
+ Response: "The future can feel uncertain, but you don’t have to figure everything out right now."
+Patterns: "I’m afraid of failing", "I don’t want to disappoint people"
+ Response: "Fear of failure is normal, but your worth isn’t based on success. Want to talk about it?"
+Grief & Loss
+Patterns: "I lost someone I love", "I’m grieving"
+ Response: "I’m truly sorry for your loss. Grief is a journey. Do you want to talk about your loved one?"
+Patterns: "I miss someone who passed away"
+ Response: "It’s okay to miss them. Your love for them doesn’t fade. Want to share a memory?"
+Patterns: "I don’t know how to deal with loss"
+ Response: "Grief is different for everyone. Have you given yourself space to process your emotions?"
+Nighttime Anxiety & Sleep Problems
+Patterns: "I can’t sleep", "I have insomnia"
+ Response: "That sounds exhausting. Have you tried relaxation techniques before bed?"
+Patterns: "I keep having bad dreams", "I wake up anxious"
+ Response: "Nightmares can be distressing. Would you like some tips for better sleep?"
+Patterns: "I feel the worst at night"
+ Response: "Nighttime can bring heavy thoughts. Would journaling before bed help?"
+Encouragement & Motivation
+Patterns: "I feel like giving up", "I don’t have the energy to keep going"
+ Response: "You are stronger than you know. Even small steps forward count."
+Patterns: "Will I ever feel better?"
+ Response: "Healing takes time, but things can improve. You are not alone in this."
+Patterns: "I just need some encouragement"
+ Response: "You’re doing better than you think. Keep going—you’ve got this!"
+Overwhelming Emotions
+Patterns: "I feel emotionally drained", "I can’t handle my emotions"
+ Response: "It sounds like you’re feeling overwhelmed. Taking small breaks might help. Do you want to talk about it?"
+Patterns: "I don’t know what’s wrong with me", "I feel out of control"
+ Response: "Sometimes emotions can feel overwhelming. You’re not alone. Do you want to explore ways to manage them?"
+Patterns: "I just feel so lost"
+ Response: "Feeling lost is tough. You don’t have to figure everything out right now. Do you want to talk about what’s on your mind?"
+Loneliness & Isolation
+Patterns: "I don’t have anyone to talk to", "I feel like I’m all alone"
+ Response: "That must be really hard. You are not alone in this, and I’m here for you."
+Patterns: "No one understands me", "I feel invisible"
+ Response: "That must be painful. I hear you. Would you like to share more about what you’re going through?"
+Patterns: "I feel like I don’t belong anywhere"
+ Response: "You deserve to feel accepted. You are valuable, and I’m here to listen."
+Intrusive Thoughts & Negative Thinking
+Patterns: "I keep having bad thoughts", "I can’t stop thinking about bad things"
+ Response: "Intrusive thoughts can be distressing. Acknowledging them without judgment can help. Would you like to try a mindfulness exercise?"
+Patterns: "I feel like I always mess things up", "I keep making mistakes"
+ Response: "We all make mistakes, but they don’t define you. Self-compassion can help. Want to talk about what happened?"
+Patterns: "I can’t stop blaming myself", "I feel guilty all the time"
+ Response: "Self-forgiveness is important. Would you like to talk through your feelings with me?"
+Social Anxiety & Fear of Judgment
+Patterns: "I hate talking to people", "I get nervous in social situations"
+ Response: "Social anxiety is tough, but you are not alone. Would practicing small steps to ease into conversations help?"
+Patterns: "I always feel like people are judging me"
+ Response: "That must be difficult. Often, people are focused on their own worries. Want to try a confidence-boosting exercise?"
+Patterns: "I avoid people because I feel awkward"
+ Response: "Socializing can be challenging, but you deserve meaningful connections. Would you like some tips for building confidence?"
+Coping with Change & Uncertainty
+Patterns: "I don’t like change", "Change makes me anxious"
+ Response: "Change can feel scary, but it also brings new opportunities. Want to talk about what’s changing for you?"
+Patterns: "I feel stuck in life", "I don’t know what to do next"
+ Response: "Feeling stuck is normal. Small steps forward can help. Would you like to explore some options together?"
+Patterns: "The future scares me"
+ Response: "The unknown can feel overwhelming, but you don’t have to face it alone. Want to discuss what’s on your mind?"
+Doubt & Self-Worth
+Patterns: "I feel like a failure", "I’m not good at anything"
+ Response: "That’s a tough feeling to have. But one failure doesn’t define you. What’s something small that you’re proud of?"
+Patterns: "I feel like I don’t matter", "Would anyone care if I was gone?"
+ Response: "You do matter, more than you know. You are valued, and I care about you. Please reach out to someone who can support you."
+Patterns: "I’m not as good as other people"
+ Response: "Comparison can be discouraging. But your journey is unique, and your progress matters."
+Anger Management & Frustration
+Patterns: "I lose my temper too easily", "I get angry at small things"
+ Response: "Anger is a valid emotion, but managing it is important. Would you like to try some calming techniques?"
+Patterns: "I feel like punching something", "I need to release my frustration"
+ Response: "Finding healthy outlets for anger is important. Would physical exercise or deep breathing help?"
+Patterns: "I always argue with people"
+ Response: "Conflict can be stressful. Would you like to talk about what triggers these arguments?"
+Work & School Pressure
+Patterns: "I feel like I can’t keep up with school", "Studying is stressing me out"
+ Response: "School can be challenging. Have you tried making a study plan to reduce stress?"
+Patterns: "I hate my job", "Work makes me miserable"
+ Response: "That sounds frustrating. Do you want to talk about what makes your job difficult?"
+Patterns: "I feel unmotivated at work/school"
+ Response: "Motivation can be hard to maintain. What’s one small step you can take today?"
+Guilt & Shame
+Patterns: "I regret something I did", "I feel ashamed of my past"
+ Response: "The past doesn’t define you. Healing starts with self-compassion. Want to talk about it?"
+Patterns: "I let someone down", "I hurt someone and I feel terrible"
+ Response: "Apologizing and making amends can help. Would you like to explore how to move forward?"
+Dealing with Rejection & Disappointment
+Patterns: "I didn’t get the job I wanted", "I feel like I keep failing"
+ Response: "Rejection is tough, but it doesn’t define your worth. Want to talk about what’s next?"
+Patterns: "Someone I like rejected me", "I feel unwanted"
+ Response: "Rejection is painful, but it doesn’t mean you aren’t lovable. You deserve people who appreciate you."
+Coping with Emotional Numbness
+Patterns: "I don’t feel anything anymore", "I feel emotionally numb"
+ Response: "Numbness can be a defense mechanism. Have you noticed what triggers this feeling?"
+Patterns: "I don’t care about anything", "I feel empty inside"
+ Response: "It sounds like you’re feeling disconnected. Small joys can help. Would you like to talk about what used to make you happy?"
+Nighttime Thoughts & Overthinking
+Patterns: "I can’t sleep because my mind won’t stop"
+ Response: "Nighttime thoughts can be intense. Have you tried writing them down before bed?"
+Patterns: "I replay past mistakes at night"
+ Response: "Overthinking the past can be tough. What’s something positive you can focus on instead?"
+Encouragement & Motivation
+Patterns: "I need some encouragement", "I feel like giving up"
+ Response: "You’ve come so far, and you are stronger than you realize. One step at a time."
+Patterns: "Will I ever be happy again?"
+ Response: "Healing takes time, but happiness is possible. You deserve peace and joy."
+Patterns: "I just need a reason to keep going"
+ Response: "You are important, and your story isn’t over yet. You are not alone in this."
+Managing Emotional Pain
+Patterns: "My heart feels heavy", "I’m emotionally exhausted"
+ Response: "I’m sorry you’re feeling this way. Emotional pain can be tough, but you’re not alone. Do you want to talk about it?"
+Patterns: "I keep crying but I don’t know why", "Tears just keep coming"
+ Response: "Crying can be a way your body processes emotions. Want to talk about what might be causing it?"
+Patterns: "I feel like I’m breaking apart"
+ Response: "That sounds really tough. You don’t have to carry this alone. I’m here for you."
+Overcoming Self-Doubt
+Patterns: "I don’t believe in myself", "I always second-guess myself"
+ Response: "Self-doubt can be hard, but you are capable. What’s something you’ve accomplished recently?"
+Patterns: "I feel like I’ll never be successful", "I don’t think I can achieve my goals"
+ Response: "Success looks different for everyone. Small steps add up. What’s one thing you can do today?"
+Patterns: "No one sees my worth", "I feel unimportant"
+ Response: "You are valuable, even when you don’t feel like it. Want to talk about what’s on your mind?"
+Panic Attacks & Sudden Anxiety
+Patterns: "I feel like I can’t breathe", "My chest is tight, and I feel panicked"
+ Response: "Panic attacks can be overwhelming. Try to focus on slow, deep breaths. I’m here for you."
+Patterns: "I feel like I’m losing control", "My anxiety is spiraling"
+ Response: "It’s okay. You are safe. Let’s try grounding together—can you name five things you see around you?"
+Patterns: "I’m shaking and I don’t know why"
+ Response: "Your body is responding to stress. Let’s slow down together—deep breath in, deep breath out."
+Coping with Regret
+Patterns: "I wish I could go back in time", "I regret so many things"
+ Response: "Regret can be painful, but the past doesn’t define you. What can you learn from it moving forward?"
+Patterns: "I made a choice I can’t undo", "I keep replaying a bad decision"
+ Response: "We all make mistakes, but growth comes from learning. How can you be kind to yourself today?"
+Patterns: "I keep punishing myself for the past"
+ Response: "You deserve forgiveness too. Healing takes time. Would you like to talk about it?"
+Feeling Misunderstood
+Patterns: "No one really gets me", "I feel like I don’t fit in"
+ Response: "That must be a lonely feeling. You deserve to be understood. Want to share what’s on your mind?"
+Patterns: "I feel like I’m speaking a different language from everyone else"
+ Response: "That sounds frustrating. Connecting with the right people can help. Want to talk about it?"
+Patterns: "People always assume the worst about me"
+ Response: "That must be tough. You know your own truth. Would you like to talk about a recent situation?"
+Struggles with Motivation & Productivity
+Patterns: "I can’t find the motivation to do anything", "I feel lazy all the time"
+ Response: "Lack of motivation doesn’t mean laziness. Sometimes rest is needed. Want to talk about it?"
+Patterns: "I have so much to do, but I can’t start", "I feel stuck and unproductive"
+ Response: "Starting is often the hardest part. How about breaking tasks into tiny steps?"
+Patterns: "I feel like I’m wasting my life"
+ Response: "That’s a hard feeling to carry. You still have time to explore what matters to you."
+Navigating Difficult Relationships
+Patterns: "I always argue with my partner", "My relationship is stressful"
+ Response: "Relationships have ups and downs. Would you like to talk about what’s been happening?"
+Patterns: "I feel like my partner doesn’t care about me"
+ Response: "That must feel painful. Have you been able to express your feelings to them?"
+Patterns: "I don’t trust people easily", "I push people away"
+ Response: "Trust takes time. It’s okay to move at your own pace. Want to talk about what makes trust difficult for you?"
+Health Anxiety & Physical Symptoms of Stress
+Patterns: "I feel sick all the time, but doctors say I’m fine"
+ Response: "Stress can sometimes manifest physically. Would you like to explore relaxation techniques?"
+Patterns: "I keep Googling my symptoms and scaring myself"
+ Response: "Health anxiety can be overwhelming. Taking a break from researching symptoms might help. Want to try distraction?"
+Patterns: "My body feels tense all the time"
+ Response: "Tension is a common stress response. Would you like to try some breathing or stretching exercises?"
+Dealing with Peer Pressure & Expectations
+Patterns: "I feel pressured to be like everyone else", "People expect too much from me"
+ Response: "That sounds overwhelming. You deserve to live in a way that feels right for you."
+Patterns: "I feel like I’m always disappointing people"
+ Response: "You don’t have to meet everyone’s expectations. Your well-being matters too."
+Patterns: "I just want to make my family proud, but I’m struggling"
+ Response: "Your worth isn’t based on achievements alone. You matter as you are."
+Self-Harm & Urges to Cope in Harmful Ways
+Patterns: "I want to hurt myself", "I feel like cutting again"
+ Response: "I’m so sorry you’re feeling this way. You are not alone, and you deserve support. Please reach out to someone who can help."
+Patterns: "Pain is the only thing that makes me feel something"
+ Response: "I hear you. You don’t have to go through this alone. Would you be open to trying safer coping methods?"
+Patterns: "I don’t want to hurt myself, but I don’t know what else to do"
+ Response: "I’m really glad you’re reaching out. You deserve kindness and support. Want to explore healthier coping strategies together?"
+Encouragement & Positive Reinforcement
+Patterns: "I don’t know if I can keep going"
+ Response: "You’ve made it this far, and that’s something to be proud of. You are stronger than you realize."
+Patterns: "I just need someone to believe in me"
+ Response: "I believe in you. You have overcome so much already. You can keep moving forward."
+Patterns: "I feel like my efforts don’t matter"
+ Response: "Every effort counts, even the small ones. You’re doing better than you think."
+Struggles with Loneliness & Isolation
+Patterns: "I feel like no one truly knows me"
+ Response: "That must feel isolating. You deserve to be seen and understood. Want to talk about it?"
+Patterns: "I don’t have anyone to confide in"
+ Response: "That sounds really tough. Having someone to talk to can help. I’m here to listen."
+Patterns: "I feel like I don’t belong anywhere"
+ Response: "Feeling like an outsider is hard. You matter, and you deserve to find spaces where you feel safe and accepted."
+Dealing with Nightmares & Sleep Issues
+Patterns: "I keep having nightmares", "I wake up in a panic"
+ Response: "That sounds distressing. Would you like to talk about your dreams? Sometimes processing them helps."
+Patterns: "I can’t sleep no matter what I do"
+ Response: "Insomnia can be frustrating. Have you tried relaxation techniques before bed?"
+Patterns: "I feel most anxious at night"
+ Response: "Nighttime can bring overwhelming thoughts. Would a calming routine help?"
+Handling Social Rejection & Loneliness
+Patterns: "People always leave me"
+ Response: "Rejection is painful, but it doesn’t define your worth. You deserve meaningful relationships."
+Patterns: "I feel like no one cares about me"
+ Response: "You matter more than you know. I care about you, and I’m here to listen."
+Patterns: "I always feel like an outsider in groups"
+ Response: "Feeling like you don’t fit in can be tough. You deserve connections where you feel safe."
+Coping with Stress & Overwhelm
+Patterns: "Everything is too much right now"
+ Response: "That sounds overwhelming. Taking things one step at a time might help. Want to break it down together?"
+Patterns: "I feel like I’m drowning in responsibilities"
+ Response: "That sounds exhausting. Have you had a chance to take a break?"
+Patterns: "I just need a moment to breathe"
+ Response: "Absolutely. Let’s take a deep breath together—inhale, hold, exhale slowly."
+Dealing with Guilt & Self-Forgiveness
+Patterns: "I can’t forgive myself for what I did"
+ Response: "Self-forgiveness takes time. You deserve kindness too. Would you like to talk about it?"
+Patterns: "I hurt someone and I feel terrible"
+ Response: "Acknowledging it is the first step. Have you thought about how you can make amends?"
+Patterns: "I always blame myself for everything"
+ Response: "It’s easy to be hard on yourself, but you deserve understanding too. Want to explore a different perspective?"
+Feeling Numb & Disconnected
+Patterns: "I feel empty inside", "I don’t feel anything anymore"
+ Response: "Emotional numbness can be a coping mechanism. Have you noticed when this feeling started?"
+Patterns: "I don’t feel like myself lately"
+ Response: "That sounds difficult. Do you want to talk about what’s changed?"
+Patterns: "I can’t connect with my emotions"
+ Response: "Sometimes emotions feel distant. Small mindful activities might help. Would you like to try one?"
+Fear of the Future & Uncertainty
+Patterns: "I don’t know what I’m doing with my life"
+ Response: "The future can feel overwhelming, but you don’t have to figure it all out right now."
+Patterns: "I feel like I have no direction"
+ Response: "It’s okay to feel lost sometimes. Small steps forward can bring clarity."
+Patterns: "I’m scared of what’s next"
+ Response: "Uncertainty can be tough, but you don’t have to face it alone. Want to talk about it?"
+Struggles with Emotional Expression
+Patterns: "I don’t know how to express my feelings"
+ Response: "Emotions can be hard to navigate. Would writing them down help?"
+Patterns: "I bottle up my feelings too much"
+ Response: "Holding everything inside can be exhausting. When you’re ready, I’m here to listen."
+Patterns: "I don’t feel safe expressing myself"
+ Response: "That must be difficult. Finding a safe space is important. Would you like to explore ways to do that?"
+Managing Jealousy & Comparison
+Patterns: "I keep comparing myself to others"
+ Response: "Comparison can be discouraging. You are valuable just as you are."
+Patterns: "I feel jealous of my friends' success"
+ Response: "Jealousy is a natural emotion. Have you tried focusing on your own progress?"
+Patterns: "I feel like I’m always behind in life"
+ Response: "Everyone moves at their own pace. Your journey is uniquely yours."
+Encouragement & Positive Reinforcement
+Patterns: "I don’t think I’m strong enough for this"
+ Response: "You are stronger than you realize. Even small steps forward count."
+Patterns: "I just need someone to remind me I’m doing okay"
+ Response: "You’re doing better than you think. I believe in you!"
+Patterns: "I don’t see any progress in my life"
+ Response: "Progress isn’t always visible, but that doesn’t mean it’s not happening."
+oping with Self-Doubt & Low Self-Worth
+Patterns: "I don’t feel good enough for anyone"
+ Response: "I’m sorry you feel this way. You are enough just as you are. Want to talk about it?"
+Patterns: "I feel like a failure at everything"
+ Response: "That’s a tough feeling. Failure is part of growth. Want to talk about what’s on your mind?"
+Patterns: "I don’t think I have any talents"
+ Response: "Everyone has strengths, even if they don’t always see them. What’s something you enjoy?"
+Managing Fear & Uncertainty
+Patterns: "I always fear the worst will happen"
+ Response: "Anxiety can make the future feel scary. Let’s focus on what you can control today."
+Patterns: "I get scared when I think about the future"
+ Response: "It’s okay to not have all the answers right now. You’re not alone in this."
+Patterns: "I overthink every decision I make"
+ Response: "Overthinking can be exhausting. Would breaking decisions into small steps help?"
+Social Anxiety & Communication Struggles
+Patterns: "I’m afraid to talk to new people"
+ Response: "Social anxiety can be challenging. Small steps can help. Want to practice?"
+Patterns: "I always feel awkward in conversations"
+ Response: "Feeling awkward is normal sometimes. Deep breaths can help. Want to try one?"
+Patterns: "I avoid social situations because I get nervous"
+ Response: "It’s okay to take things at your own pace. Would you like to discuss ways to ease into conversations?"
+Work & Academic Pressure
+Patterns: "I feel like I’m failing at school/work"
+ Response: "That sounds frustrating. Struggles don’t define you. Want to talk about how to move forward?"
+Patterns: "I can’t concentrate on anything"
+ Response: "Lack of focus can be stressful. Have you tried breaking tasks into smaller steps?"
+Patterns: "I feel exhausted from school/work"
+ Response: "Burnout is real. Taking breaks and self-care are important. Want to talk about how to recharge?"
+Coping with Heartbreak & Loss
+Patterns: "My breakup is really hurting me"
+ Response: "Breakups are painful. Healing takes time. Want to talk about how you’re feeling?"
+Patterns: "I miss my ex so much"
+ Response: "It’s normal to miss someone you cared about. Would you like to talk about what’s on your mind?"
+Patterns: "I feel like I’ll never find love again"
+ Response: "Heartbreak can make the future feel hopeless, but love can be found again. Be kind to yourself."
+Guilt & Forgiveness
+Patterns: "I made a mistake I can’t fix"
+ Response: "Mistakes don’t define you. Growth comes from learning. Would you like to talk about it?"
+Patterns: "I can’t forgive myself for something I did"
+ Response: "Self-forgiveness is part of healing. You deserve kindness too."
+Patterns: "I feel guilty for something in the past"
+ Response: "It’s hard to carry guilt alone. Talking about it might help. I’m here to listen."
+Dealing with Trauma & Painful Memories
+Patterns: "I keep remembering things I want to forget"
+ Response: "Painful memories can be difficult to process. Have you considered talking to someone about them?"
+Patterns: "I have flashbacks that scare me"
+ Response: "Flashbacks can be overwhelming. Grounding techniques might help. Want to try one?"
+Patterns: "I feel like my past controls me"
+ Response: "The past can be heavy, but healing is possible. You don’t have to go through this alone."
+Encouragement & Hope
+Patterns: "I just need to hear that things will be okay"
+ Response: "Things may be tough now, but you won’t always feel this way. You are stronger than you think."
+Patterns: "I need motivation to keep going"
+ Response: "Every small step you take matters. You’re doing better than you realize."
+Patterns: "I don’t think I’ll ever be happy again"
+ Response: "Healing takes time, but happiness is still possible. You are not alone in this."
+Handling Emotional Overwhelm
+Patterns: "I feel like I’m going to explode"
+ Response: "That sounds really intense. Let’s take a deep breath together and slow things down."
+Patterns: "My emotions are all over the place"
+ Response: "Emotional ups and downs can be exhausting. Do you want to talk about what’s triggering them?"
+Patterns: "I don’t know how to control my emotions"
+ Response: "Emotions can feel overwhelming, but they don’t control you. Let’s explore ways to manage them."
+Managing Anxiety & Worry
+Patterns: "I get anxious over the smallest things"
+ Response: "Anxiety can make even small things feel big. What helps you feel calmer?"
+Patterns: "I can’t stop thinking about things that might go wrong"
+ Response: "It’s tough when your mind keeps running. Let’s try shifting focus—what’s one good thing about today?"
+Patterns: "I feel physically sick when I’m anxious"
+ Response: "Anxiety can affect the body too. Have you tried deep breathing or grounding exercises?"
+Dealing with Stress & Burnout
+Patterns: "I have no energy for anything"
+ Response: "That sounds exhausting. Have you had time to rest and recharge?"
+Patterns: "I’m burned out but I can’t stop working"
+ Response: "Pushing through burnout can make it worse. Taking small breaks might help."
+Patterns: "I feel guilty when I take time for myself"
+ Response: "Self-care isn’t selfish. You deserve rest just like anyone else."
+Struggles with Self-Confidence
+Patterns: "I always feel like I’m not good enough"
+ Response: "Self-doubt is tough, but you bring value just by being you."
+Patterns: "I feel like I have nothing to offer"
+ Response: "You are more important than you think. What’s one thing you’re proud of?"
+Patterns: "I’m afraid people will think I’m a failure"
+ Response: "People’s opinions don’t define you. You are growing and learning at your own pace."
+Coping with Loneliness
+Patterns: "I feel so disconnected from everyone"
+ Response: "That sounds really isolating. Have you tried reaching out to someone who cares about you?"
+Patterns: "I don’t think anyone really knows me"
+ Response: "Feeling unseen can be painful. You deserve meaningful connections."
+Patterns: "I’m surrounded by people but I still feel alone"
+ Response: "Loneliness can happen even with others around. What kind of connection do you long for?"
+Relationships & Trust Issues
+Patterns: "I have trouble trusting people"
+ Response: "Trust takes time, and that’s okay. Have past experiences made it difficult for you?"
+Patterns: "I feel like people always leave me"
+ Response: "That fear can be really painful. You deserve stable and caring relationships."
+Patterns: "I don’t know how to make real friends"
+ Response: "Making connections can be tough. What kind of friendships would feel meaningful to you?"
+Fear of Rejection & Judgment
+Patterns: "I feel like people don’t accept me"
+ Response: "Being accepted for who you are is important. You deserve to be around people who appreciate you."
+Patterns: "I always feel judged by others"
+ Response: "That’s a hard feeling to sit with. Often, people are more focused on themselves than we realize."
+Patterns: "I’m scared to put myself out there"
+ Response: "Trying new things can be scary, but growth happens outside your comfort zone."
+Guilt & Shame
+Patterns: "I regret something I said to someone"
+ Response: "Regret is a sign you care. Would apologizing or making amends help you feel better?"
+Patterns: "I feel ashamed of my past mistakes"
+ Response: "The past doesn’t define you. Learning from mistakes is part of growth."
+Patterns: "I can’t forgive myself for something I did"
+ Response: "Self-forgiveness is hard, but you deserve it. What would you say to a friend in your situation?"
+Nighttime Overthinking & Insomnia
+Patterns: "I can’t sleep because my mind won’t stop racing"
+ Response: "That sounds frustrating. Would listening to calming music or journaling help before bed?"
+Patterns: "I overthink everything at night"
+ Response: "Nighttime thoughts can be intense. Have you tried redirecting your focus to something positive?"
+Patterns: "I feel the worst when I’m alone at night"
+ Response: "You’re not alone in this. Would you like to talk about what’s on your mind?"
+Body Image & Self-Acceptance
+Patterns: "I hate the way I look in the mirror"
+ Response: "Self-love takes time. You are more than just your appearance."
+Patterns: "I feel like I’ll never be happy with my body"
+ Response: "Your body carries you through life, and it deserves kindness too."
+Patterns: "I compare myself to people on social media"
+ Response: "Social media doesn’t show the full picture. You are enough just as you are."
+Dealing with Uncertainty & Change
+Patterns: "I don’t handle change well"
+ Response: "Change can be uncomfortable, but growth happens through it. What’s something constant in your life?"
+Patterns: "I feel lost when things don’t go as planned"
+ Response: "Uncertainty is tough, but you are adaptable. What’s one small thing you can focus on today?"
+Patterns: "I get really anxious when my routine changes"
+ Response: "Routines help us feel safe. Would small adjustments make change feel more manageable?"
+Encouragement & Motivation
+Patterns: "I feel like giving up on everything"
+ Response: "I hear you. You are stronger than you think. Let’s take things one step at a time."
+Patterns: "I don’t think I can keep going"
+ Response: "You’ve come so far already. Every step forward, no matter how small, matters."
+Patterns: "I need someone to tell me I’m doing okay"
+ Response: "You are doing better than you realize. Keep going—I believe in you!"
+Managing Emotional Numbness
+Patterns: "I don’t feel anything anymore"
+ Response: "Feeling numb can be a way your mind protects itself. Do you want to talk about what led to this?"
+Patterns: "I feel disconnected from my emotions"
+ Response: "That sounds difficult. Small things like music or journaling might help reconnect. Want to try?"
+Patterns: "I can’t cry even when I want to"
+ Response: "It’s okay if emotions don’t come easily. Your feelings are still valid."
+Coping with Overthinking
+Patterns: "I can’t stop thinking about past mistakes"
+ Response: "The past can be heavy, but you deserve to move forward. What’s something positive you learned?"
+Patterns: "My brain never stops thinking"
+ Response: "Overthinking can be exhausting. Have you tried mindfulness or distraction techniques?"
+Patterns: "I get stuck in a loop of negative thoughts"
+ Response: "Negative thought cycles are tough. Want to try shifting your focus to something that brings you peace?"
+Fear of Failure & Perfectionism
+Patterns: "I feel like I’m never good enough"
+ Response: "Perfection isn’t necessary for growth. You are enough just as you are."
+Patterns: "I’m scared of failing at everything I try"
+ Response: "Failure is part of learning. Every attempt is a step forward."
+Patterns: "I never finish anything because I don’t want to fail"
+ Response: "It’s okay to take things one step at a time. Starting is already a success."
+Social Anxiety & Isolation
+Patterns: "I don’t know how to start conversations"
+ Response: "Starting small can help. A simple ‘hello’ is a great beginning."
+Patterns: "I feel like I annoy people when I talk"
+ Response: "Your words matter. The right people will want to hear what you have to say."
+Patterns: "I avoid social events because I get too anxious"
+ Response: "Social anxiety is tough. Would practicing small steps help build confidence?"
+Grief & Loss
+Patterns: "I lost someone I love, and I don’t know how to move on"
+ Response: "Grief has no timeline. It’s okay to take your time to heal. Want to talk about them?"
+Patterns: "I feel guilty for not grieving ‘correctly’"
+ Response: "There’s no right way to grieve. However you feel is valid."
+Patterns: "I miss them so much it hurts"
+ Response: "Missing them shows how much they meant to you. It’s okay to carry their memory with you."
+Coping with Betrayal & Broken Trust
+Patterns: "I feel betrayed by someone I trusted"
+ Response: "That must be painful. You deserve honesty and respect in your relationships."
+Patterns: "I don’t think I can trust anyone again"
+ Response: "Trust takes time to rebuild. You don’t have to rush your healing."
+Patterns: "I feel stupid for trusting the wrong person"
+ Response: "Trusting others isn’t a weakness. You deserve relationships built on honesty."
+Dealing with Hopelessness
+Patterns: "I don’t see a future for myself"
+ Response: "That must feel really hard. You matter, and there is hope even when you can’t see it right now."
+Patterns: "Nothing in life excites me anymore"
+ Response: "It’s okay to feel stuck. Small new experiences might help. Want to brainstorm some?"
+Patterns: "I don’t think I’ll ever be happy again"
+ Response: "Pain doesn’t last forever. Your feelings are valid, but hope is still possible."
+Handling Self-Isolation
+Patterns: "I push people away even when I don’t want to"
+ Response: "That can be hard. Sometimes, protecting yourself feels necessary. Want to talk about it?"
+Patterns: "I don’t want to leave my room"
+ Response: "That’s okay. Small steps toward connection can help when you’re ready."
+Patterns: "I stopped responding to messages from my friends"
+ Response: "If they care about you, they’ll understand. Would reaching out feel possible?"
+Coping with Sudden Mood Swings
+Patterns: "One minute I’m happy, the next I’m really down"
+ Response: "Sudden mood changes can be confusing. Have you noticed any patterns or triggers?"
+Patterns: "I don’t know how to deal with my emotions shifting so fast"
+ Response: "It’s okay to feel this way. Finding small grounding techniques might help. Want to try one?"
+Patterns: "I feel unstable emotionally"
+ Response: "That must be difficult. You’re not alone in this. Would you like to talk about it?"
+Struggles with Self-Identity
+Patterns: "I don’t know who I am anymore"
+ Response: "That’s a tough place to be. It’s okay to take time to rediscover yourself."
+Patterns: "I feel like I have no purpose"
+ Response: "Your value isn’t based on productivity. You matter just by being you."
+Patterns: "I keep changing who I am to fit in"
+ Response: "You deserve to be accepted for who you truly are."
+Encouragement & Motivation
+Patterns: "I don’t think I’ll ever get better"
+ Response: "Healing isn’t linear, but every step you take matters. You are not alone."
+Patterns: "I feel like nothing I do makes a difference"
+ Response: "Your efforts matter, even when they don’t feel like they do. Keep going."
+Patterns: "I just need some reassurance that I’ll be okay"
+ Response: "You are stronger than you think. Things can and will get better."
+Coping with Daily Anxiety
+Patterns: "I wake up feeling anxious every day"
+ Response: "That sounds exhausting. Have you noticed any patterns in your morning anxiety?"
+Patterns: "I get anxious over the smallest things"
+ Response: "Anxiety can make things feel bigger than they are. Want to talk about what’s on your mind?"
+Patterns: "I feel like my brain never turns off"
+ Response: "That sounds overwhelming. Have you tried journaling or mindfulness before bed?"
+Managing Work & Academic Stress
+Patterns: "I feel like I’m drowning in work"
+ Response: "That sounds overwhelming. Breaking tasks into smaller steps might help. Want to try?"
+Patterns: "I don’t have the energy to finish my assignments"
+ Response: "Burnout is real. Taking a break might actually help you be more productive later."
+Patterns: "I feel like I’ll never be good enough at my job"
+ Response: "Self-doubt is tough, but you bring value. What’s one thing you’ve accomplished lately?"
+Dealing with Overwhelm & Burnout
+Patterns: "I feel mentally exhausted all the time"
+ Response: "That sounds draining. Have you been able to take any time for yourself?"
+Patterns: "I’m so burned out, but I can’t stop working"
+ Response: "Pushing through burnout can make things worse. Would a short break help?"
+Patterns: "I feel guilty when I rest"
+ Response: "Rest isn’t a reward; it’s a necessity. You deserve to recharge too."
+Self-Esteem & Confidence Issues
+Patterns: "I don’t like anything about myself"
+ Response: "That’s a painful feeling. But you are valuable, even if you don’t see it right now."
+Patterns: "I feel like I’ll never be successful"
+ Response: "Success isn’t a straight path. You’re learning and growing every day."
+Patterns: "I compare myself to everyone else"
+ Response: "Comparison can be discouraging. But your journey is uniquely yours."
+Loneliness & Feeling Unseen
+Patterns: "I feel invisible to everyone"
+ Response: "You are not invisible. You matter, even if it doesn’t feel like it right now."
+Patterns: "I don’t think anyone truly knows me"
+ Response: "That must feel lonely. You deserve to be understood. Want to talk about it?"
+Patterns: "I feel like no one listens to me"
+ Response: "That must be frustrating. Your feelings are important, and I hear you."
+Struggles with Decision-Making
+Patterns: "I overthink every decision I make"
+ Response: "Overthinking can be exhausting. Breaking things into smaller choices might help."
+Patterns: "I feel paralyzed when I have to make a choice"
+ Response: "It’s okay to take time with decisions. What’s the smallest step you can take?"
+Patterns: "I’m afraid of making the wrong decision"
+ Response: "No decision is perfect. Learning from choices is part of growth."
+Fear of the Future & Uncertainty
+Patterns: "I don’t know what I want to do with my life"
+ Response: "That’s okay. You don’t have to figure it all out at once. Small steps matter."
+Patterns: "The future scares me"
+ Response: "The unknown can feel overwhelming, but you’re not alone in this journey."
+Patterns: "I feel like I have no direction"
+ Response: "Feeling lost is normal. You’re allowed to explore and grow at your own pace."
+Nighttime Worries & Overthinking
+Patterns: "I can’t sleep because my mind won’t stop racing"
+ Response: "That sounds frustrating. Have you tried writing down your thoughts before bed?"
+Patterns: "I overthink everything at night"
+ Response: "Nighttime thoughts can feel heavier. Would focusing on something calming help?"
+Patterns: "I feel the worst when I’m alone at night"
+ Response: "You’re not alone. Would it help to talk about what’s on your mind?"
+Handling Rejection & Disappointment
+Patterns: "I keep getting rejected by people"
+ Response: "Rejection is painful, but it doesn’t define you. The right people will appreciate you."
+Patterns: "I feel like I’m always being left behind"
+ Response: "That must be tough. You deserve relationships that value you for who you are."
+Patterns: "I feel like I’ll never find my place"
+ Response: "You are still growing, and your place in the world will come with time."
+Managing Emotional Pain
+Patterns: "I feel like I’m carrying too much emotional weight"
+ Response: "That sounds really heavy. You don’t have to carry it all alone."
+Patterns: "I keep crying but I don’t know why"
+ Response: "Sometimes emotions come out before we understand them. Want to talk about what’s on your mind?"
+Patterns: "I feel emotionally drained"
+ Response: "That sounds exhausting. Taking a step back and resting might help."
+Coping with Trauma & Painful Memories
+Patterns: "I keep remembering things I want to forget"
+ Response: "Painful memories can be difficult. You don’t have to face them alone."
+Patterns: "I have flashbacks that scare me"
+ Response: "Flashbacks can be intense. Grounding techniques might help. Want to try one?"
+Patterns: "I feel like my past controls me"
+ Response: "Your past doesn’t define your future. Healing is possible."
+Struggles with Self-Identity
+Patterns: "I don’t know who I am anymore"
+ Response: "That’s a tough place to be. It’s okay to take time to rediscover yourself."
+Patterns: "I feel like I have no purpose"
+ Response: "Your worth isn’t based on what you do. You matter just as you are."
+Patterns: "I keep changing who I am to fit in"
+ Response: "You deserve to be accepted for who you truly are."
+Encouragement & Motivation
+Patterns: "I feel like giving up on everything"
+ Response: "I hear you. You are stronger than you think. Let’s take things one step at a time."
+Patterns: "I don’t think I can keep going"
+ Response: "You’ve come so far already. Every step forward, no matter how small, matters."
+Patterns: "I just need someone to tell me I’m doing okay"
+ Response: "You are doing better than you realize. Keep going—I believe in you!"
+
+Coping with Sadness & Hopelessness
+Patterns: "I feel like things will never get better"
+ Response: "I hear you. Even though it may not feel like it now, things can change. You are not alone."
+Patterns: "I’ve been sad for so long, I don’t know what happiness feels like anymore"
+ Response: "That sounds really tough. Have you had moments, even small ones, that brought you peace?"
+Patterns: "I don’t see a reason to keep going"
+ Response: "You are important, and your story isn’t over yet. You are not alone in this."
+Managing Anxiety & Uncertainty
+Patterns: "I get nervous even when nothing is wrong"
+ Response: "Anxiety can be tricky like that. Would you like to try some grounding techniques?"
+Patterns: "I always expect the worst to happen"
+ Response: "That sounds exhausting. Let’s try shifting focus—what’s something good that happened recently?"
+Patterns: "I panic when I think about the future"
+ Response: "The future can feel overwhelming. Would it help to focus on small, present steps?"
+Dealing with Stress & Overwhelm
+Patterns: "I have so much to do, I don’t know where to start"
+ Response: "That sounds stressful. Maybe starting with one small step could help."
+Patterns: "I’m mentally and physically drained"
+ Response: "Burnout is real. You deserve rest. Have you taken any time for yourself today?"
+Patterns: "I keep pushing myself even when I know I need a break"
+ Response: "Rest isn’t a luxury—it’s necessary. What’s one way you can recharge today?"
+Social Anxiety & Feeling Out of Place
+Patterns: "I feel like I don’t belong anywhere"
+ Response: "You deserve a space where you feel safe and valued. What kind of community do you wish for?"
+Patterns: "I hate socializing but I don’t want to be alone"
+ Response: "That’s a tough balance. Have you thought about small, low-pressure ways to connect with others?"
+Patterns: "I feel awkward every time I talk to people"
+ Response: "Social interactions can feel challenging. What’s something that helps you feel more at ease?"
+Struggles with Self-Esteem & Self-Worth
+Patterns: "I don’t think I’m good at anything"
+ Response: "We all have strengths, even if we don’t see them. What’s something that interests you?"
+Patterns: "I feel like I’ll never be enough"
+ Response: "You are already enough just as you are. Your worth isn’t tied to achievements."
+Patterns: "I wish I was someone else"
+ Response: "It’s okay to feel that way sometimes. But your uniqueness is what makes you valuable."
+Handling Fear & Uncertainty
+Patterns: "I don’t know what I want in life"
+ Response: "That’s okay. You have time to explore. What’s something small that brings you joy?"
+Patterns: "I’m scared of trying new things"
+ Response: "New things can be scary, but they also bring growth. What’s something small you’d like to try?"
+Patterns: "I feel lost when things don’t go as planned"
+ Response: "Uncertainty is tough, but you are adaptable. What’s one thing you can control right now?"
+Loneliness & Feeling Unseen
+Patterns: "I feel like no one notices me"
+ Response: "That must be painful. Your presence matters more than you realize."
+Patterns: "I feel like I have no one to talk to"
+ Response: "I’m here for you. Talking can help. What’s on your mind?"
+Patterns: "I want to reach out to people, but I’m scared"
+ Response: "That’s understandable. Small steps toward connection can help. Want to talk about it?"
+Patterns: "I feel like nobody understands me."
+Response: "Physical activity, like a short walk, can help clear your mind."
+Patterns: "I feel so alone even in a crowd."
+Response: "That feeling of isolation, even when surrounded by people, can be incredibly painful. I'm here for you."
+Response: "You're doing your best, and that's enough."
+Patterns: "I wish I had someone to talk to."
+Response: "Consider reaching out to a trusted friend or counselor."
+Patterns: "I feel distant from my loved ones."
+Response: "You might find journaling helpful for organizing your thoughts."
+Response: "I'm sorry you're feeling like this. Let's talk about it."
+Coping with Negative Thoughts
+Patterns: "I always think the worst about myself"
+ Response: "Self-criticism can be tough. What’s one thing you like about yourself, even if it’s small?"
+Patterns: "I keep having thoughts that scare me"
+ Response: "That must be difficult. You’re not alone, and you deserve support. Would talking about it help?"
+Patterns: "I feel like I’m stuck in my own head"
+ Response: "Overthinking can be exhausting. Would a distraction or grounding technique help?"
+Managing Jealousy & Comparison
+Patterns: "I compare myself to others too much"
+ Response: "Comparison can steal joy. Your journey is unique and valuable."
+Patterns: "I feel jealous of my friends' success"
+ Response: "It’s natural to feel that way, but your own path is just as important."
+Patterns: "I feel behind in life compared to everyone else"
+ Response: "Everyone moves at their own pace. Your timing is right for you."
+Encouragement & Hope
+Patterns: "I just need someone to tell me I’m doing okay"
+ Response: "You are doing better than you think. I’m proud of you for pushing forward."
+Patterns: "I feel like no one believes in me"
+ Response: "I believe in you. You have overcome so much already."
+Patterns: "I need a reason to keep going"
+ Response: "You are important, and the world is better with you in it."
+Self-Doubt & Lack of Confidence
+
+Patterns: "I don't feel confident about myself."
+Response: "Taking small breaks can help you manage stress better."
+Response: "Deep breathing exercises can help reduce anxiety."
+Relationship Struggles
+Patterns: "I'm struggling with my partner."
+Response: "Remember, it's okay to ask for help when you need it."
+Response: "Deep breathing exercises can help reduce anxiety."
+Overwhelm & Lack of Motivation
+Patterns: "I don't feel motivated to do anything anymore."
+Response: "Remember, it's okay to ask for help when you need it."
+Response: "Focus on small steps to feel better each day."
+Patterns: "I feel like I can't handle everything on my plate."
+Response: "You might find journaling helpful for organizing your thoughts."
+Response: "Focus on small steps to feel better each day."
+Patterns: "I feel like nothing makes me happy anymore."
+Response: "Physical activity, like a short walk, can help clear your mind."
+Anxiety & Worry
+Patterns: "I can't stop worrying about everything."
+Response: "Consider reaching out to a trusted friend or counselor."
+Response: "I'm sorry you're feeling like this. Let's talk about it."
+Patterns: "I'm feeling anxious about tomorrow."
+Response: "It's okay to feel this way. You're not alone."
+Work-Related Stress
+Patterns: "Work has been overwhelming lately."
+Response: "I'm sorry you're feeling like this. Let's talk about it."
+Patterns: "I feel completely exhausted at work."
+Response: "I'm here for you. Can you tell me more about how you're feeling?"
+Burnout
+Patterns: "How can I recover from burnout?"
+Response: "You might find journaling helpful for organizing your thoughts."
+Response: "Physical activity, like a short walk, can help clear your mind."
+General Distress
+Patterns: "I'm feeling really down lately."
+Response: "I'm here for you. Can you tell me more about how you're feeling?"
+Conflict Resolution
+Patterns: "How do I handle conflicts with friends?"
+Response: "Taking small breaks can help you manage stress better."
+Self-Esteem & Self-Worth
+Patterns: "I often feel like I'm not good enough."
+Response: "Try practicing gratitude to shift your focus to positive things."
+Response: "I'm sorry you're feeling like this. Let's talk about it."
+Burnout Recovery
+Patterns: "How can I recover from burnout?"
+Response: "Taking small breaks can help you manage stress better."
+Response: "Focus on small steps to feel better each day."
+Response: "Deep breathing exercises can help reduce anxiety."
+General Distress & Sadness
+Patterns: "I'm feeling really down lately."
+Response: "Deep breathing exercises can help reduce anxiety."
+Anxiety & Worry
+Patterns: "I can't stop worrying about everything."
+Response: "Remember, it's okay to ask for help when you need it."
+Response: "I'm sorry you're feeling like this. Let's talk about it."
+Loneliness & Feeling Unseen
+Patterns: "I feel so alone even in a crowd."
+Response: "Consider reaching out to a trusted friend or counselor."
+Response: "Remember, it's okay to ask for help when you need it."
+Response: "Deep breathing exercises can help reduce anxiety."
+Patterns: "I wish I had someone to talk to."
+Response: "Remember, it's okay to ask for help when you need it."
+Response: "Deep breathing exercises can help reduce anxiety."
+Patterns: "I feel like nobody understands me."
+Response: "It's okay to feel this way. You're not alone."
+Relationship Struggles
+Patterns: "I'm struggling with my partner."
+Response: "It's okay to feel this way. You're not alone."
+Work-Related Stress
+Patterns: "Work has been overwhelming lately."
+Response: "You're doing your best, and that's enough."
+Response: "Consider reaching out to a trusted friend or counselor."
+Stress Management
+Patterns: "How can I manage my stress better?"
+Response: "Physical activity, like a short walk, can help clear your mind."
+Conflict Resolution
+Patterns: "How do I handle conflicts with friends?"
+Response: "I'm here for you. Can you tell me more about how you're feeling?"
+Loneliness & Feeling Unseen
+Patterns: "I feel so alone even in a crowd."
+Response: "You might find journaling helpful for organizing your thoughts."
+Patterns: "I feel distant from my loved ones."
+Response: "Consider reaching out to a trusted friend or counselor."
+Response: "Focus on small steps to feel better each day."
+Patterns: "I feel like nobody understands me."
+Response: "Try practicing gratitude to shift your focus to positive things."
+Self-Esteem & Self-Worth
+Patterns: "I often feel like I'm not good enough."
+Response: "You might find journaling helpful for organizing your thoughts."
+Anxiety & Physical Symptoms
+Patterns: "I feel like my heart is racing all the time."
+Response: "Taking small breaks can help you manage stress better."
+Patterns: "I'm feeling anxious about tomorrow."
+Response: "You might find journaling helpful for organizing your thoughts."
+Response: "Remember, it's okay to ask for help when you need it."
+Patterns: "I can't stop worrying about everything."
+Response: "Remember, it's okay to ask for help when you need it."
+Depression & Low Energy
+Patterns: "I'm feeling really down lately."
+Response: "I'm sorry you're feeling like this. Let's talk about it."
+Response: "I'm here for you. Can you tell me more about how you're feeling?"
+Patterns: "I don't have the energy to do anything."
+Response: "Deep breathing exercises can help reduce anxiety."
+Response: "Consider reaching out to a trusted friend or counselor."
+Work-Related Stress
+Patterns: "Work has been overwhelming lately."
+Response: "I'm here for you. Can you tell me more about how you're feeling?"
+Patterns: "I feel completely exhausted at work."
+Response: "Try practicing gratitude to shift your focus to positive things."
+Stress Management
+Patterns: "How can I manage my stress better?"
+Response: "Remember, it's okay to ask for help when you need it."
+Relationship Struggles
+Patterns: "I'm struggling with my partner."
+Response: "Consider reaching out to a trusted friend or counselor."
+Response: "It's okay to feel this way. You're not alone."
+Self-Esteem & Self-Worth
+Patterns: "How can I build my self-esteem?"
+Response: "I'm sorry you're feeling like this. Let's talk about it."
+Response: "Physical activity, like a short walk, can help clear your mind."
+Patterns: "I don't feel confident about myself."
+Response: "Remember, it's okay to ask for help when you need it."
+Motivation & Energy
+Patterns: "I don't feel motivated to do anything anymore."
+Response: "Deep breathing exercises can help reduce anxiety."  
+Response: "Try practicing gratitude to shift your focus to positive things."
+Loneliness & Distancing
+Patterns: "I feel distant from my loved ones."
+Response: "Focus on small steps to feel better each day."
+Patterns: "I feel like nobody understands me."
+Response: "You're doing your best, and that's enough."
+Response: "Deep breathing exercises can help reduce anxiety."  
+Overwhelm & Stress
+Patterns: "I feel like I can't handle everything on my plate."
+Response: "Physical activity, like a short walk, can help clear your mind."
+Response: "Consider reaching out to a trusted friend or counselor."
+Patterns: "I can't stop worrying about everything."
+Response: "You might find journaling helpful for organizing your thoughts."
+Patterns: "I feel completely exhausted at work."
+Response: "Remember, it's okay to ask for help when you need it."
+Patterns: "I feel like my heart is racing all the time."
+Response: "I'm here for you. Can you tell me more about how you're feeling?"
+Patterns: "I'm feeling anxious about tomorrow."
+Response: "Taking small breaks can help you manage stress better."
+Conflict Resolution
+Patterns: "How do I handle conflicts with friends?"
+Response: "Taking small breaks can help you manage stress better."
+Response: "Try practicing gratitude to shift your focus to positive things."
+Work-Related Stress & Exhaustion
+Patterns: "Work has been overwhelming lately."
+Response: "Physical activity, like a short walk, can help clear your mind."
+Patterns: "I feel completely exhausted at work."
+Response: "Deep breathing exercises can help reduce anxiety."
+Loneliness & Isolation
+Patterns: "I feel so alone even in a crowd."
+Response: "I'm here for you. Can you tell me more about how you're feeling?"
+Patterns: "I feel distant from my loved ones."
+Response: "Remember, it's okay to ask for help when you need it."
+Patterns: "I don't have the energy to do anything."
+Response: "I'm sorry you're feeling like this. Let's talk about it."
+Depression & Lack of Joy
+Patterns: "I'm feeling really down lately."
+Response: "It's okay to feel this way. You're not alone."
+Patterns: "I feel like nothing makes me happy anymore."
+Response: "You're doing your best, and that's enough."
+Response: "I'm here for you. Can you tell me more about how you're feeling?"
+Anxiety & Worry
+Patterns: "I'm feeling anxious about tomorrow."
+Response: "It's okay to feel this way. You're not alone."
+Patterns: "I feel like my heart is racing all the time."
+Response: "It's okay to feel this way. You're not alone."
+Conflict Resolution
+Patterns: "How do I handle conflicts with friends?"
+Response: "I'm here for you. Can you tell me more about how you're feeling?"
+Lack of Motivation
+Patterns: "I don't feel motivated to do anything anymore."
+Response: "Try practicing gratitude to shift your focus to positive things."
+Overwhelm
+Patterns: "I feel like I can't handle everything on my plate."
+Response: "Focus on small steps to feel better each day."
